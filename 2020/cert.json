@@ -2,7 +2,7 @@
   {
     "id": "01cb2019e8bcb44d578c1cee0dc73656f76fcee19e63233d6784eccd580f5374",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "01cb2019"
@@ -10,7 +10,7 @@
   {
     "id": "bd1d42265a2782c2734e5dc97d33a462a0d2fbc9bcd1917eb2a51986296be6ec",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "bd1d4226"
@@ -18,7 +18,7 @@
   {
     "id": "2373157e3552a99bbb1c3d4cf841908ad1d3e436a014ea243c7ee12b3da9bd20",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "2373157e"
@@ -26,7 +26,7 @@
   {
     "id": "5b058769c15c1506f51d3d8c0482fbc8be6ed684a57725c96a21bd4f5db37a33",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "5b058769"
@@ -34,7 +34,7 @@
   {
     "id": "4925e508c03c6cb099753cabb613301ce9c8a631a431a3985ef7c47ed80470c9",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "4925e508"
@@ -42,7 +42,7 @@
   {
     "id": "325457ee253d44a1f4f47d3f093debdb412634cb819e9b39b2a1a8e6d46749eb",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "325457ee"
@@ -50,7 +50,7 @@
   {
     "id": "2cba21fa5965c515efac88c1c95a0060c4f081f648a7e170d0ba91f10ca07565",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "2cba21fa"
@@ -58,7 +58,7 @@
   {
     "id": "b47572409dc2dfdcb57835ab334939ccb8346ef95f39828f4dfd4be8adfaa47e",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "b4757240"
@@ -66,7 +66,7 @@
   {
     "id": "de24d3499f8183c5f8e7be44247b4fc468388638333eba603464ec529971c7fb",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "de24d349"
@@ -74,7 +74,7 @@
   {
     "id": "f32affc00268accd2354fb145d22b9926525e5c9904f483330dd158a8f29cf2b",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "f32affc0"
@@ -82,7 +82,7 @@
   {
     "id": "23c83d17564db1433641a38ee25f236597aa1f4a5ec63c056ac04caacacd5cc9",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "23c83d17"
@@ -90,7 +90,7 @@
   {
     "id": "873b614ddbe1ab8962308ad6bfc366428249096b6e96b3505f021427dc1fbab7",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "873b614d"
@@ -98,7 +98,7 @@
   {
     "id": "d8fa5b7394c99bc0c7c852fcfe64d1c396f7bd241eb37dd5eb9ca9de20c9f4c1",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "d8fa5b73"
@@ -106,7 +106,7 @@
   {
     "id": "195b7012ca55b0fc426140aae6aeea5935339278c6485e913b2b67ba91ded0ec",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "195b7012"
@@ -114,7 +114,7 @@
   {
     "id": "43457263328c12b6eaf24a628139ebf65580b1acdde554ce6522319872bcbb4b",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "43457263"
@@ -122,7 +122,7 @@
   {
     "id": "4bc801ff424bf89fe28da15b9309c955a8f08c8605fb8167d9722721a416a340",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "4bc801ff"
@@ -130,7 +130,7 @@
   {
     "id": "20f2802f8347cbedf6f4246fdbe3471899a0a933e32802eb46ca0de34fbdf7b1",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "20f2802f"
@@ -138,7 +138,7 @@
   {
     "id": "d1ee1fadb2934d4228e7b9db2facaf9734a58d887931ddb11054af0c6f1f28c9",
     "course": "Introdução à GNU/LINUX",
-    "type": "Introducao_a_GNU-LINUX",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "d1ee1fad"
@@ -146,7 +146,7 @@
   {
     "id": "8a3bad5b8633a8b211397ca11071438f79a768517f9cea6baf5167a776235aea",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "8a3bad5b"
@@ -154,7 +154,7 @@
   {
     "id": "66db22696537993b010915194502f03ae1e3223eb4df4592e7beec25846b4042",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "66db2269"
@@ -162,7 +162,7 @@
   {
     "id": "029d5a0b4f99ba2b3fbf8fa0981d2137193c6735037285e8b71d240b7f3dd4dc",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "029d5a0b"
@@ -170,7 +170,7 @@
   {
     "id": "cba309e1150a7466435f3ab37acaa65e46d1733a82f8d82dda439394fa0a372b",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "cba309e1"
@@ -178,7 +178,7 @@
   {
     "id": "539759a3b39734471186f141dc52f7309ce2b7005387ab218c92a47506148867",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "539759a3"
@@ -186,7 +186,7 @@
   {
     "id": "22d3b2d12896e02d6554de8626a945e04704cc67731583c52b3a52c93c86adfb",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "22d3b2d1"
@@ -194,7 +194,7 @@
   {
     "id": "3dcb267e9a6a8b59f1309b531cd76e014ebc7ba41843949e315310200cee1876",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "3dcb267e"
@@ -202,7 +202,7 @@
   {
     "id": "f8b75123ddbb3d5bbf949f1444c730511caa6f5027fdca75eb7cec6c29d75a01",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "f8b75123"
@@ -210,7 +210,7 @@
   {
     "id": "bcfd3d8983751b1f6d584412744652af5872a09b658a8a259d49d9c10a665196",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "bcfd3d89"
@@ -218,7 +218,7 @@
   {
     "id": "9f75a691cb255b6bd08d731e8301a9f2a80cc9c048c13c0e11b0b0a0bb0c51ec",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "9f75a691"
@@ -226,7 +226,7 @@
   {
     "id": "6897450112f9761bbfd2746699adc6701c1d74b9ba5592139f6e9eaeb81268bc",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "68974501"
@@ -234,7 +234,7 @@
   {
     "id": "1868fc4e8fc9a92b2c5a65f66164837e741059ed733a18513686970ebe72a80d",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "1868fc4e"
@@ -242,7 +242,7 @@
   {
     "id": "dec6f4543623f6b24e693ba2449a8908c5a06efcc4355175c8d2ca02c00de93e",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "dec6f454"
@@ -250,7 +250,7 @@
   {
     "id": "ede44b8d9937dee4fd20727ad751bd901be0e2f445efa9bb651f07e3900267b6",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "ede44b8d"
@@ -258,7 +258,7 @@
   {
     "id": "3b04b020b52df96f48cefdd21e20408f7e7dcd78babc1e3c9179625799309d6b",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "3b04b020"
@@ -266,7 +266,7 @@
   {
     "id": "d3fe49ca8f9c41f228d299071ae09664338cf2ba91fd0d24bf4c75186ce5a11b",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "d3fe49ca"
@@ -274,7 +274,7 @@
   {
     "id": "e85581db4ea51a0beb6526a7b9c446df507f9795e5c8e18eb2d7436b4af0a8f8",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "e85581db"
@@ -282,7 +282,7 @@
   {
     "id": "586c0c844eb63362286f8e9c92df20faf4391925f951eca87a640ec6a739546a",
     "course": "Introdução à Transcriptômica",
-    "type": "Introducao_a_Transcriptomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "586c0c84"
@@ -290,7 +290,7 @@
   {
     "id": "d0f2d6ed0a7c6acb08040f6472b3e08a75742f0499c71d2d591b35d2984dfb48",
     "course": "Patentes e transferência de Propriedade Intelectual",
-    "type": "Patentes_e_transferencia_de_Propriedade_Intelectual",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "d0f2d6ed"
@@ -298,7 +298,7 @@
   {
     "id": "1cc59284a9f31ce16080e94d679808945f415c6487bea323a9c86b9948cd05a5",
     "course": "Patentes e transferência de Propriedade Intelectual",
-    "type": "Patentes_e_transferencia_de_Propriedade_Intelectual",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "1cc59284"
@@ -306,7 +306,7 @@
   {
     "id": "73fd04632db903a7580c10d1ad5d087a075d455655f556eb7fc85d25d9db4bfc",
     "course": "Patentes e transferência de Propriedade Intelectual",
-    "type": "Patentes_e_transferencia_de_Propriedade_Intelectual",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "73fd0463"
@@ -314,7 +314,7 @@
   {
     "id": "afd4aa06a9430716a188be8b1cc31278200485a1ef1b3bf38249b93f1eb1d7b6",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "afd4aa06"
@@ -322,7 +322,7 @@
   {
     "id": "9f25a6febb45519217530c87499bb320ad9b6f31f4f17a3754363d36b8fcadd9",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "9f25a6fe"
@@ -330,7 +330,7 @@
   {
     "id": "147d12454a589beb1f94cd2c374937ca76d19830a75c0f5629937606274d3324",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "147d1245"
@@ -338,7 +338,7 @@
   {
     "id": "670c4d525bf8ec3ff009a09577445ee44e6d0aa62374d61abf81ffd1ae86c3c2",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "670c4d52"
@@ -346,7 +346,7 @@
   {
     "id": "2fd502a9a718385d93b0a059396b9a8bbd2bf7527541deda18ca6587bce6e802",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "2fd502a9"
@@ -354,7 +354,7 @@
   {
     "id": "53d0f2c79d13d0d22bce30d9dd2532cd8c2b2166547e9e59696b889700ef0743",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "53d0f2c7"
@@ -362,7 +362,7 @@
   {
     "id": "104a66a70c7c81cc341214f627c5b81c7d8292520400aa3b56a52619bdbf40b6",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "104a66a7"
@@ -370,7 +370,7 @@
   {
     "id": "7c823ba4d6e4d84207d2d667c2b3cfcdcfc3f717657b1a4c3c0b56b8fbec5c5d",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "7c823ba4"
@@ -378,7 +378,7 @@
   {
     "id": "365cda1d2e414c85643df6072c7604cdf4d70dcace4979c3c0cceb313bea63a7",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "365cda1d"
@@ -386,7 +386,7 @@
   {
     "id": "04d9b9b0979e58055548f7aac517c039832df7c6eddfd5344d7f638911aaee40",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "04d9b9b0"
@@ -394,7 +394,7 @@
   {
     "id": "afdec6ecf4b4235b7eb2a0245210d2a1f1c8ea288faed69224a4faed044cce1a",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "afdec6ec"
@@ -402,7 +402,7 @@
   {
     "id": "034ab1ff62bf1ecfffa29e2bdd6a9175f758bcfeab59af85277dff5e38684d2e",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "034ab1ff"
@@ -410,7 +410,7 @@
   {
     "id": "635e0608693b98f382f5c583f4df263a141ad230635ff3f18e31c1ce435af760",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "635e0608"
@@ -418,7 +418,7 @@
   {
     "id": "958a8a07961a32baa2858f6d95bbaef5bee837f60997baef30a305f429b64a98",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "958a8a07"
@@ -426,7 +426,7 @@
   {
     "id": "49d81299556a61a4683d07aa09bfc60b8c602ae57f4b27951194a7f3a34d1f02",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "49d81299"
@@ -434,7 +434,7 @@
   {
     "id": "dd8a5b1b4911b77d8db3027c6264d00157279a1159e9aebd26101afe5721e324",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "dd8a5b1b"
@@ -442,7 +442,7 @@
   {
     "id": "112dda93cff83e568275239a5ffbfb707588934cf4e78d342894ecf570c8f574",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "112dda93"
@@ -450,7 +450,7 @@
   {
     "id": "721781a328d27b724cbc4fb51d74c8192b4dc3da9a5e66a2244ce6de05395afe",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "721781a3"
@@ -458,7 +458,7 @@
   {
     "id": "712b3cd93d8ba249e6fbda6197d59fb7514181bf57f6847d3d322196f80ecb57",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "712b3cd9"
@@ -466,7 +466,7 @@
   {
     "id": "220efe4ad576ca522c2267388aaafdf6cf044fcd9b629c57ed261b4d83d118c8",
     "course": "Dinâmica molecular",
-    "type": "Dinamica_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "220efe4a"
@@ -474,7 +474,7 @@
   {
     "id": "5b2715c06924d946418827fa973daf9738ed693801f33a79d40cca6f41aeac5d",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "5b2715c0"
@@ -482,7 +482,7 @@
   {
     "id": "ec966bd85b0a40cad3ded88b77aa029ccf224cf029058bac997bfe994fd37954",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "ec966bd8"
@@ -490,7 +490,7 @@
   {
     "id": "b8eaac4c84cee630496bc5e7ab66a0da358afe63f1840d2c860b82091fa03b0b",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "b8eaac4c"
@@ -498,7 +498,7 @@
   {
     "id": "c9e4674d960d1d3c9dd54899ceaefd2e6c347c12ca525f898191034cb2841316",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "c9e4674d"
@@ -506,7 +506,7 @@
   {
     "id": "cdaa95d9c491b1d56ac7e13135f5d4d700fdd61d17986d4120878c8cb160f7f4",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "cdaa95d9"
@@ -514,7 +514,7 @@
   {
     "id": "41afa2036c9a5743e61346602ee6191f8b763f926ddb2de53fc84604282946a9",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "41afa203"
@@ -522,7 +522,7 @@
   {
     "id": "803f41c91969cfe8236ff06b90b5949bdf242c5953e49f7e4619c4f9f71bbb61",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "803f41c9"
@@ -530,7 +530,7 @@
   {
     "id": "eb10964fa3e56e26a67706a1c5ac2d25cdf9e4b9855fd27dabe49a390fe40cd7",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "eb10964f"
@@ -538,7 +538,7 @@
   {
     "id": "921b47b04f145871de74d8d324605f7c04de9591b90b7ec7d6e7787f5413bd89",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "921b47b0"
@@ -546,7 +546,7 @@
   {
     "id": "68f1687e72ec6e1d13968fe15f57f49b1a602f2e5f56773a5f19ec0448152c27",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "68f1687e"
@@ -554,7 +554,7 @@
   {
     "id": "7b11f8ad0a94e7f90a8098c1e6b9db9510264890d6c4472651fe4d8d63f3eaef",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "7b11f8ad"
@@ -562,7 +562,7 @@
   {
     "id": "2600ebaa07509413ab713689bf7d4ddd44d70b2b608f533c8e10973628e60992",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "2600ebaa"
@@ -570,7 +570,7 @@
   {
     "id": "80fd1c9fce864193380aa1f73c2945279559b2a244e84c134fa89eaee4328b09",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "80fd1c9f"
@@ -578,7 +578,7 @@
   {
     "id": "5c7c7974973e69de712ff000e89a97df730733b77ccf3ccb669073f1f34e98cd",
     "course": "Metagenômica",
-    "type": "Metagenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "5c7c7974"
@@ -586,7 +586,7 @@
   {
     "id": "76085d9f554ad579d05aab4c9f1d35617bcbbd85612e6d1f3ed6a6ddd97b19f2",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "76085d9f"
@@ -594,7 +594,7 @@
   {
     "id": "76487b9baed383549bdb7b9551fd9a6b52a44cd0b513bfebc99cd3bfe1fa143e",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "76487b9b"
@@ -602,7 +602,7 @@
   {
     "id": "fa9a3153ffc2e309429f436ba85b65dee6fea266dd2fa015f24ba9f8efed9f61",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "fa9a3153"
@@ -610,7 +610,7 @@
   {
     "id": "247b446e9bd2de5165b4d2061e5c51fa93055923d561058be9aeaf878d0b25c6",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "247b446e"
@@ -618,7 +618,7 @@
   {
     "id": "9d61361c062c28b2b5366d0256baa5e68a28ee35045ba756ca3d76956160a565",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "9d61361c"
@@ -626,7 +626,7 @@
   {
     "id": "29a7ce08a013db90a4e68afb4012dcbf166bcd4d617db25c0c6de7db4d71e091",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "29a7ce08"
@@ -634,7 +634,7 @@
   {
     "id": "2e3849c60dcd1b53491074f97ca5fbaad9f0f0ba94697a9f1dac4a1f48d823e5",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "2e3849c6"
@@ -642,7 +642,7 @@
   {
     "id": "667e6b39f434b843406840be74cfeec792cd058501a0c89c8f9d19707ec66ef8",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "667e6b39"
@@ -650,7 +650,7 @@
   {
     "id": "6e6473c228d7dee9fa5afde080cdb7c1e7d930307dc6b5ad915db90442e9e18d",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "6e6473c2"
@@ -658,7 +658,7 @@
   {
     "id": "23cebf93c53951a3ebd4d9591a3d01e0e96a64a34fea9b7c70795ce351cb7477",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "23cebf93"
@@ -666,7 +666,7 @@
   {
     "id": "60e6f5cb0e072b1260f06c6e83ed302dac7d99567b95ed863e5abb3a890d514d",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "60e6f5cb"
@@ -674,7 +674,7 @@
   {
     "id": "bb77d194de5822fb193c9e3fc301cfbdcfdc84e77acb6492faf013c8af6461c2",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "bb77d194"
@@ -682,7 +682,7 @@
   {
     "id": "56ca289a49ccc2272d6b03da6d9d1dcda55642256adf950dab4e7a9abd810014",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "56ca289a"
@@ -690,7 +690,7 @@
   {
     "id": "8a036be6d8c17c97107f3a16af6b1aae1d977f927529018e4a02c9f85fff085d",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "8a036be6"
@@ -698,7 +698,7 @@
   {
     "id": "bc21d4c9c433bd2c8e9f3adee52ee08d1313a02e25cfcde97c10c05fb75328d6",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "bc21d4c9"
@@ -706,7 +706,7 @@
   {
     "id": "7186e8946a10e23783cfbe3802f40f3b5f9af223fc20d67517b67b5492d004d6",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "7186e894"
@@ -714,7 +714,7 @@
   {
     "id": "b3ba170d693f34c719a44153bb22531b33f5bea7a8ebaae8f195269b8c8c038a",
     "course": "Introdução a linguagem R",
-    "type": "Introducao_a_linguagem_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "b3ba170d"
@@ -722,7 +722,7 @@
   {
     "id": "a8afdef261c75a39c2b55378101448cf87999667c5757a72798606c55d2dedc4",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "a8afdef2"
@@ -730,7 +730,7 @@
   {
     "id": "cb40aa71b4042420ebd632f386c16304a781c6e6e61acebd0b9848f56f4125b9",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "cb40aa71"
@@ -738,7 +738,7 @@
   {
     "id": "7bd2e9a64370a8bc9d60afaee61c1ad8295a4eead0062f09170103dd7c545184",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "7bd2e9a6"
@@ -746,7 +746,7 @@
   {
     "id": "ff8ce72c8fa387faab02694a3d3ec2ba7545db25cf8ccf54bc8f6881095400da",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "ff8ce72c"
@@ -754,7 +754,7 @@
   {
     "id": "f912c3df813dda13976b3d85bfdd78e330d1d7bccb22c3d371184b7f5cf8b569",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "f912c3df"
@@ -762,7 +762,7 @@
   {
     "id": "661429e27a21e7e6c1dffad58dd1748371bda7eed4d77fa8656cb060670e8d27",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "661429e2"
@@ -770,7 +770,7 @@
   {
     "id": "4eb933bb560c4c5e80bde0ef68512b7e5c426a53e01c0e94cde7876ae602b75e",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "4eb933bb"
@@ -778,7 +778,7 @@
   {
     "id": "ed97742492c035ed8dfb421d57ef203a423e9d3cde9d7574d8fa36848d759c66",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "ed977424"
@@ -786,7 +786,7 @@
   {
     "id": "cc4093fc64f45327bbae94c82130accfb8888b902c6b411a7cc34757947dba7f",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "cc4093fc"
@@ -794,7 +794,7 @@
   {
     "id": "88a24fc6faf16cc476194ac8494c80a3506d0585b49ae90e9c41eb24e383a8ac",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "88a24fc6"
@@ -802,7 +802,7 @@
   {
     "id": "38940d9526b8302f28274724507a084d828202dd3aa87b3b03fed310ec7f9a50",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "38940d95"
@@ -810,7 +810,7 @@
   {
     "id": "f6ad1d24104b123214c7145d2130b3af54bc9e248ebc96edb6bd2e76bbe08aa4",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "f6ad1d24"
@@ -818,7 +818,7 @@
   {
     "id": "dfcb83e979d726ed0d93dca26266c9ad9762ed08f5f9c2a8f09ac84fab7c42ba",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "dfcb83e9"
@@ -826,7 +826,7 @@
   {
     "id": "63c3e3fb4812bba7f7b7fd22460d44bf98500778b9531a8bd35d605dc65e877e",
     "course": "Visualização de dados em R",
-    "type": "Visualizacao_de_dados_em_R",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "63c3e3fb"
@@ -834,7 +834,7 @@
   {
     "id": "e24f8618e36d1b95cb041a0848996767982abc4f152666173007b91b22cb3562",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "e24f8618"
@@ -842,7 +842,7 @@
   {
     "id": "739026be1d24f58b349220f7d03b2969e3dda58f5abae964c8f6245b52f46206",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "739026be"
@@ -850,7 +850,7 @@
   {
     "id": "17c16a8bc4f4330a9a2d765400f1c5cedc8f800a45b5784b0dccab05bc323ab0",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "17c16a8b"
@@ -858,7 +858,7 @@
   {
     "id": "cb09c6249079e31f863a84e4b4ee8366963e644aa79841ce47402378be483723",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "cb09c624"
@@ -866,7 +866,7 @@
   {
     "id": "700e5bd1ff1fc3e0c396f80ad280a260b2732ef4e0175fb57df8e0d1f87a5142",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "700e5bd1"
@@ -874,7 +874,7 @@
   {
     "id": "f23d0a2aa4734fab269aa20f7e9e616e7223baeaae3d69b99fbf155fda74b09a",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "f23d0a2a"
@@ -882,7 +882,7 @@
   {
     "id": "f9cc11682e942d3575d9bb6997d2af4b53205eaf9efc3383e4587a51022efaff",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "f9cc1168"
@@ -890,7 +890,7 @@
   {
     "id": "b770b1b0dd009ffda499bb70031398dbd2d0acd7812134f0b174c83de263e330",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "b770b1b0"
@@ -898,7 +898,7 @@
   {
     "id": "3bb3e6b6ce63b80771358682550e94e5b7b611d04b50bba6f06d08a751bda696",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "3bb3e6b6"
@@ -906,7 +906,7 @@
   {
     "id": "e6a05447adbfb1199e4e675d4a6707640e852a4cb94f6777d875aff1b32b0868",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "e6a05447"
@@ -914,7 +914,7 @@
   {
     "id": "843ee84798d2d3d45aaf8792934587842ee034541e4b3092611bbe8c71267fc3",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "843ee847"
@@ -922,7 +922,7 @@
   {
     "id": "64225d5fcf933469ec3c4d87a95658699b9bff4ef484d2af514ca7855bd42b97",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "64225d5f"
@@ -930,7 +930,7 @@
   {
     "id": "86637716d0e9ffb255d6854d75270ba4658d56800bc4536a39d553a6f4478a98",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "86637716"
@@ -938,7 +938,7 @@
   {
     "id": "1fff8a2d3a9352bd25bb165dcce63a1d44e6c9d8deee81d6f60bec085b213fad",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "1fff8a2d"
@@ -946,7 +946,7 @@
   {
     "id": "11648221158b022f9271fca30b02a4fa3f4e381ee208c2dc3e2d08b882bb44a1",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "11648221"
@@ -954,7 +954,7 @@
   {
     "id": "78e3855f341316e09f6662166ceb01b495cdd1593a7df9701cf6159b6771d7e4",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "78e3855f"
@@ -962,7 +962,7 @@
   {
     "id": "e9135903ad0acd2cfc425fd59d383ce9148c46f8573b23a828391c79ca7b3006",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "e9135903"
@@ -970,7 +970,7 @@
   {
     "id": "91f48ddb8db9ae9b6514829326a4d03e4c4a200cd3fd414021ae2657ef0cebed",
     "course": "Introdução à programação",
-    "type": "Introducao_a_programacao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "91f48ddb"
@@ -978,7 +978,7 @@
   {
     "id": "a8c51c90a216f67a564571027031e2ae476813195453116b4c5d1e445866538a",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "a8c51c90"
@@ -986,7 +986,7 @@
   {
     "id": "1ad902990589b812eb6ac04f3390110f2f8b792ce037a2dadbf05e8b7fa77831",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "1ad90299"
@@ -994,7 +994,7 @@
   {
     "id": "c212f0d55d38b378e86a250ad41b23e0097a8eeb327e822c75e1551e8de41cd9",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "c212f0d5"
@@ -1002,7 +1002,7 @@
   {
     "id": "0da14a68a743984b97ad097384e9063e9c80763732e4ea09807fd75853301895",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "0da14a68"
@@ -1010,7 +1010,7 @@
   {
     "id": "d679204b435dc726f1e6a08510f9494d48cb14585d5fb30d4d9d54ce8864118c",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "d679204b"
@@ -1018,7 +1018,7 @@
   {
     "id": "8b495bd8bec1016b014cf19f31819573cae41c57f5354b7cbe985511c537ea99",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "8b495bd8"
@@ -1026,7 +1026,7 @@
   {
     "id": "df77142c959e9b65f02ba0414ec0ef7214d720df6d01ad227d0da600767a1483",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "df77142c"
@@ -1034,7 +1034,7 @@
   {
     "id": "7b0881fc6c8d8381818db5db2b2a6395d1d2afcf018b8f1de6870d24d9e266ae",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "7b0881fc"
@@ -1042,7 +1042,7 @@
   {
     "id": "d782cbb182ffab352b143c5eb8132535472ac58c6dca9168782e5a7156ce8f4e",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "d782cbb1"
@@ -1050,7 +1050,7 @@
   {
     "id": "c4bebbc7f51caa4551e2bfc5ca237cd8b35b615c81920c74c6c81bf76c6c4031",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "c4bebbc7"
@@ -1058,7 +1058,7 @@
   {
     "id": "c5bc3d3ae73c9d0b602bb84bb246c60711484d1b3172ba03602bd12ddd294b4d",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "c5bc3d3a"
@@ -1066,7 +1066,7 @@
   {
     "id": "9117b6db83763cdb1918bd3a377a7ef2e7a6683e10470ad9be124112b7733070",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "9117b6db"
@@ -1074,7 +1074,7 @@
   {
     "id": "cf0ef1ef5708bc2e7c9af72b3527633b989353175d7757a9364f8c8e6e96b028",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "cf0ef1ef"
@@ -1082,7 +1082,7 @@
   {
     "id": "d634ef508d5f34966321dd8462bc0c424a8a6b3a03d5431bf119decf3f938508",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "d634ef50"
@@ -1090,7 +1090,7 @@
   {
     "id": "2ca74f379351f65d22679baa2eb7f5999f6d25becf538f8a31a06c730b759e7a",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "2ca74f37"
@@ -1098,7 +1098,7 @@
   {
     "id": "4e4579ced42c908b51f5030fefec9dce06f09cdfa64e0686d50bd1e4b56beba2",
     "course": "Vacinologia Reversa",
-    "type": "Vacinologia_Reversa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "4e4579ce"
@@ -1106,7 +1106,7 @@
   {
     "id": "f3381bda6b0f18588d05f654f97a21a0a3dbc2d93c7f74b4afd7dedd5f3ee0c4",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "f3381bda"
@@ -1114,7 +1114,7 @@
   {
     "id": "bd7dbeeac93e84a2415cb97445ea08c1d72577788c99d13c7314f7224fc009c5",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "bd7dbeea"
@@ -1122,7 +1122,7 @@
   {
     "id": "7bcae23ed2fcbee8b40279f285403430c2db912238f56f8cfb4c291793b5f905",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "7bcae23e"
@@ -1130,7 +1130,7 @@
   {
     "id": "502de42521f4bf59f198c131e41e530d5884fe52b8071059227ead7893d66c4a",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "502de425"
@@ -1138,7 +1138,7 @@
   {
     "id": "d97a91afb6eee845f7c422cf2b86a9024db85911762881c75cc1be7871c505f1",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "d97a91af"
@@ -1146,7 +1146,7 @@
   {
     "id": "44b20357b42fc29085d8d6d73218570ad6a7b4753bd15e8a882447b5baf4ac89",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "44b20357"
@@ -1154,7 +1154,7 @@
   {
     "id": "ea13ea1ce112f6b58e16ba30bf31e0701c80441ae0fd54e6ad395a33be63fd77",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "ea13ea1c"
@@ -1162,7 +1162,7 @@
   {
     "id": "097a08d5d1eb106ce8be4929d73aa097b7eb69d4a2d0113b3e4d4d8d0a11e848",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "097a08d5"
@@ -1170,7 +1170,7 @@
   {
     "id": "7a783d07cd3d258bbb740df33d2e51c521efd737131e11c04d3e960b3972d510",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "7a783d07"
@@ -1178,7 +1178,7 @@
   {
     "id": "5e3f8085f84b00cf2c18a45db8145b3f86c40bd268e8bb3a7996cde056c756dd",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "5e3f8085"
@@ -1186,7 +1186,7 @@
   {
     "id": "c2496ef2f2a3ff8bba36bfd646ebeb222555fa7d588f78033ae29fb44183e2d2",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "c2496ef2"
@@ -1194,7 +1194,7 @@
   {
     "id": "89e78f72a58c125ac328e848f7eedcdc9609189c068d1523c0883fc16c93f8fe",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "89e78f72"
@@ -1202,7 +1202,7 @@
   {
     "id": "21c3eeea2ba121c2ae1bbdab305b0d698e8f529d10d9864f10f11a7fc88fa117",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "21c3eeea"
@@ -1210,7 +1210,7 @@
   {
     "id": "42855ac9ea739a336a35c2087ae8cd9f76d29f7aea0b5a4791aaa3981d4aa6f7",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "42855ac9"
@@ -1218,7 +1218,7 @@
   {
     "id": "4fe0ad36ce20ee33b5013c2fa425b0f6d1a99537b1e8ba0ff8289601ecc73151",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "4fe0ad36"
@@ -1226,7 +1226,7 @@
   {
     "id": "f5e462a4bb63d8371ef1286364b4c8e91928f569de8a78875a1855d90c0d0313",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "f5e462a4"
@@ -1234,7 +1234,7 @@
   {
     "id": "07225b3c4cdfa43e6a2f3953e05dc6f36791818b217b6ff1c3e9e3f52284847a",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "07225b3c"
@@ -1242,7 +1242,7 @@
   {
     "id": "99382450512903a1f8a1a2bb2aff2dfdf7f3522d6c59c723eb95f42ddbc02c8e",
     "course": "Docking molecular",
-    "type": "Docking_molecular",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "99382450"
@@ -1250,7 +1250,7 @@
   {
     "id": "f7015812d270fd9f094273babb6fb1ca9f894f5ad14dfe76711ea3ec47c215cb",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "f7015812"
@@ -1258,7 +1258,7 @@
   {
     "id": "81e9e2e6d03cda5f57fe3a9c09e10809a81e51f0341c81505848889b4e738b3a",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "81e9e2e6"
@@ -1266,7 +1266,7 @@
   {
     "id": "e72fa84f8b2b73a44862802ae0eeb60c8e38279dddc76dc79dd7029557d102d5",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "e72fa84f"
@@ -1274,7 +1274,7 @@
   {
     "id": "60582822f6833ac25dd06032ff02f15e6deb186d5ea761f0b2586fcfda067cf4",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "60582822"
@@ -1282,7 +1282,7 @@
   {
     "id": "1494179c9ed50d66b206f5329b3e003fb878fc71fa4c5d83a4e77f1578adf997",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "1494179c"
@@ -1290,7 +1290,7 @@
   {
     "id": "b94eaf69de249cb3814405dd8e035a9c4646da3c784a15863520d026c8b4364b",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "b94eaf69"
@@ -1298,7 +1298,7 @@
   {
     "id": "47031b7f7a302310e429d68a9b4e12d7157bb1932fa617b9c331d9afff7e24ed",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "47031b7f"
@@ -1306,7 +1306,7 @@
   {
     "id": "3e4ac331d6ed2e557411d0713a535917023c28dff99cd2f2bed3caf8363ecf88",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "3e4ac331"
@@ -1314,7 +1314,7 @@
   {
     "id": "19989de4384bc0b37105435cea8c40974420ae8d19e14d0137e539f93822f066",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "19989de4"
@@ -1322,7 +1322,7 @@
   {
     "id": "7cf06d36e608e1332ec8379f2e0da1d9d6769117eed3112eab07bf7a2c623040",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "7cf06d36"
@@ -1330,7 +1330,7 @@
   {
     "id": "32d5d3ad53cbb4b96b4d77f7be749a97e48edcb69b95766e67d7c98fab735f70",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "32d5d3ad"
@@ -1338,7 +1338,7 @@
   {
     "id": "c9b4df0bf838c58b19a15f68ef1ee1f0ccd08b5c1bbb91c45f65c11a428661bb",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "c9b4df0b"
@@ -1346,7 +1346,7 @@
   {
     "id": "c19b48381ce79d7654d3d793fc260eae3f0722c747cf666cec6baecf698cf359",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "c19b4838"
@@ -1354,7 +1354,7 @@
   {
     "id": "35f4e7fba474f49ee5b00fe5a27cdfcf1be1abfa92f0910f3f8ea3c8ba26d323",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "35f4e7fb"
@@ -1362,7 +1362,7 @@
   {
     "id": "31d30c200d4f175c70643f0b78cb4cf56d78eee9f8594f588b691e623a431d35",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "31d30c20"
@@ -1370,7 +1370,7 @@
   {
     "id": "65cd45609ee8590cd75a199341bd8a1eb12fe95184222cf82164736fbf1c304e",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "65cd4560"
@@ -1378,7 +1378,7 @@
   {
     "id": "01b998fb6de5b73bb41e331dbef8fb87632f5dcc57cb49b3e994ba45ce260ae5",
     "course": "Pesquisa em Banco de Dados",
-    "type": "Pesquisa_em_Banco_de_Dados",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "01b998fb"
@@ -1386,7 +1386,7 @@
   {
     "id": "84ba4de995d1c9a31157ef2d8383c1c09574d57c30972c3fdd1522a8374e70b8",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "84ba4de9"
@@ -1394,7 +1394,7 @@
   {
     "id": "02cd602139eff0ddaa4a70de5f66cd8fa70183e5a8a0669df23b8b07f65fe160",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "02cd6021"
@@ -1402,7 +1402,7 @@
   {
     "id": "99912dafbde1ca7edaafcc1bb9f59959f33345ba66859fc5f51b8e6539c17378",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "99912daf"
@@ -1410,7 +1410,7 @@
   {
     "id": "b7a55f62529d02aa81fc9c038e98759de103c3be0f11ee4ae686da6d11623336",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "b7a55f62"
@@ -1418,7 +1418,7 @@
   {
     "id": "1c80c4c3e7f49d926f0759ffbdb8ba17c04e8b767caf7ca91c8ed473d427f961",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "1c80c4c3"
@@ -1426,7 +1426,7 @@
   {
     "id": "7e4473b32d7868ef5a9f40c63f87d528ee143d43d8d98a83583c2dfff2d7e6f7",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "7e4473b3"
@@ -1434,7 +1434,7 @@
   {
     "id": "0486c1ecccfe1dcef1db3538419e482fd582c64e1a3aa3c20ab99e3588253350",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "0486c1ec"
@@ -1442,7 +1442,7 @@
   {
     "id": "9ab22f64d668eb12b4b775bb75a0caba5e1b50b49fecce08fcb3c186f44faef5",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "9ab22f64"
@@ -1450,7 +1450,7 @@
   {
     "id": "b1dcd7966ad8ec726da4bd2ec095d5fc58504f1d275cc3a84b0469e7b3c427f0",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "b1dcd796"
@@ -1458,7 +1458,7 @@
   {
     "id": "dbfd085394c3332823e2574ec16cb73ec951912a717ceb750f88bb2b6488f9da",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "dbfd0853"
@@ -1466,7 +1466,7 @@
   {
     "id": "e00b3b19cae63a296f1e8c573b0511f67deb19a4d01a8c5f9655ee0135824a8d",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "e00b3b19"
@@ -1474,7 +1474,7 @@
   {
     "id": "43b1e80e904cc59e363b9f2742406aaf7dc28ca657caf04ca645fbbe61c9535e",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "43b1e80e"
@@ -1482,7 +1482,7 @@
   {
     "id": "12b9265547c18299f01cac5e0d9bd7ecc823221acc8a96c3b244aa82a1a24ff3",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "12b92655"
@@ -1490,7 +1490,7 @@
   {
     "id": "9abcadea531600a75360f991a4506b4a1f44506b6616c8d3491167f3bfaf45cb",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "9abcadea"
@@ -1498,7 +1498,7 @@
   {
     "id": "657e7f48d5ffe24a92b2a9df4b64e29ac19660c6c6ac28987d2320423e35fd97",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "657e7f48"
@@ -1506,7 +1506,7 @@
   {
     "id": "33370fa2f504e195a8d92faf84c0d5475061662bba24fbbfcbd1ee53228cc794",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "33370fa2"
@@ -1514,7 +1514,7 @@
   {
     "id": "2ba326bfd2cbac861179eac66b87e63881ee68cf676c16e88f4fec7329109b71",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "2ba326bf"
@@ -1522,7 +1522,7 @@
   {
     "id": "ab111a7569e1eced6ac8a02d4c930dd26188fec42f257167e3b73dba44270545",
     "course": "Genômica e evolução",
-    "type": "Genomica_e_evolucao",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "ab111a75"
@@ -1530,7 +1530,7 @@
   {
     "id": "8415281806960bca2df456e88ae58f565550427e9d3e256100386cc248e4a7a1",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "84152818"
@@ -1538,7 +1538,7 @@
   {
     "id": "903f5c43dd2602afda21b3fa5299a44b46b68fb33c13bbf421b0d1553bd81d8b",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "903f5c43"
@@ -1546,7 +1546,7 @@
   {
     "id": "a9fd790c6bf6f640877b141c0672d900a17340589c4368a20d422a7d62bcd11c",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "a9fd790c"
@@ -1554,7 +1554,7 @@
   {
     "id": "d3a906f108a8610ca6677390ef28cc1f8d73353a05a0d34244450b6dc5b46539",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "d3a906f1"
@@ -1562,7 +1562,7 @@
   {
     "id": "14c35ff9a576754c72d140ebedf39098cc21c9c8d6e85c981124461b1008bb5c",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "14c35ff9"
@@ -1570,7 +1570,7 @@
   {
     "id": "aa19cebfbf71e0b5425f94108fbf71b38ce1bb65b38845e1f12d3b6aa4396009",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "aa19cebf"
@@ -1578,7 +1578,7 @@
   {
     "id": "2bff969624cfb524163802e8d067a621c3addbd641b9cb560758ad2110acdc09",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "2bff9696"
@@ -1586,7 +1586,7 @@
   {
     "id": "36f1b08f62ca82584dca2994177f1c7aa50449f0b54ae763eb27bc4f5c49883e",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "36f1b08f"
@@ -1594,7 +1594,7 @@
   {
     "id": "6908f5660b52a196252ff49db63685bdb4dc5bb8fea47c95ad5943dd32d69d04",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "6908f566"
@@ -1602,7 +1602,7 @@
   {
     "id": "f2f1d3d238e3b82404cdcb60124dcea1a1af3981fb0dd37f990d88ce9287dcbf",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "f2f1d3d2"
@@ -1610,7 +1610,7 @@
   {
     "id": "a3bf78f973c17705b431dc42274e3f783e62ecd6e681a3717402c01b0b7e376d",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "a3bf78f9"
@@ -1618,7 +1618,7 @@
   {
     "id": "558c44cac0f487142e9624df09294d636232f7c9661dbf587c7771b6a3f56a10",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "558c44ca"
@@ -1626,7 +1626,7 @@
   {
     "id": "a627e3a72175ce9da0bb51f66d2e329ee6e24f82180775f19ca873e1a9a2b7fd",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "a627e3a7"
@@ -1634,7 +1634,7 @@
   {
     "id": "9829e12bdea1f418832bbce363b93531976355b8f715fd9f58fa31b2e739fd18",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "9829e12b"
@@ -1642,7 +1642,7 @@
   {
     "id": "9addb79dfaa6f61d1273eb336d5836d99225d047909f3f280b7109ef33b85463",
     "course": "Detecção de variantes",
-    "type": "Deteccao_de_variantes",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "9addb79d"
@@ -1650,7 +1650,7 @@
   {
     "id": "700df43483023c80cc69cb72bf96447641d7c3cadbe568e956ad5627038f6b1d",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "700df434"
@@ -1658,7 +1658,7 @@
   {
     "id": "c636eda2e3214c43429844b54f59ab14dcd8e51469062fb26c5560fdea0f79a0",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "c636eda2"
@@ -1666,7 +1666,7 @@
   {
     "id": "42b1372a9812b16597a0f18be0df3e0063bdc9d97ea2bdbbe18de613cab70220",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "42b1372a"
@@ -1674,7 +1674,7 @@
   {
     "id": "959f9c2d6be19dcee2f46769766109fe73f3229f8247a83df4ba4c6803a5964e",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "959f9c2d"
@@ -1682,7 +1682,7 @@
   {
     "id": "b795824c11750d4bc402d886f2fce8e744cab5f54ac369e8f53fbc1fc37ca970",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "b795824c"
@@ -1690,7 +1690,7 @@
   {
     "id": "0ae978e91e85b57e144c5666ed2a129cbe865739286b5e76e2ee5cdc2ecc986f",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "0ae978e9"
@@ -1698,7 +1698,7 @@
   {
     "id": "023284e353c2848ee3d9d8dfcc49d3d456aaced59035f6827f1dcb4e4f4f6645",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "023284e3"
@@ -1706,7 +1706,7 @@
   {
     "id": "e77b6729c9be6191352c96d8ebaf7380e75c5e8b970f85b38a8f5fbcc0013ec4",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "e77b6729"
@@ -1714,7 +1714,7 @@
   {
     "id": "af876157f8473259cd41e8edcad5ce948fa1e17aa8be484e29fff78751745a39",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "af876157"
@@ -1722,7 +1722,7 @@
   {
     "id": "e2045fbeaf10c0e33c554a66ed7ddaa80a3550b6d359ea239f5bf2d6c02e5d02",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "e2045fbe"
@@ -1730,7 +1730,7 @@
   {
     "id": "dcf35a6d32f31b62c3763461a7d31649b18870f54ffd874513f91efb2ea890bd",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "dcf35a6d"
@@ -1738,7 +1738,7 @@
   {
     "id": "73c6de52dc6857d9dd653779956eb508a88fcf61e796c5c9fece89f2fd39fc34",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "73c6de52"
@@ -1746,7 +1746,7 @@
   {
     "id": "4d2c3a46b74a96e46250cb366be68b39b67f691b81165bf126459d8dd9d62107",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "4d2c3a46"
@@ -1754,7 +1754,7 @@
   {
     "id": "311ea7d63eb97e16117aee4ace33097b3a463c51ada81c110dd9afcdadbe3f90",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "311ea7d6"
@@ -1762,7 +1762,7 @@
   {
     "id": "d5149324e9108e0049bed854e68aca73b4b2a9f911ca73eeaca42db4bc18e55a",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "d5149324"
@@ -1770,7 +1770,7 @@
   {
     "id": "64a761f1f7fa413fcf084d6351e4e327c0b338ff597db6f549f06de0c664f4d5",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "64a761f1"
@@ -1778,7 +1778,7 @@
   {
     "id": "b8f349e5dbd2cb2a56b96c1a62045fa2199d558b048a27c332500066a1c29b03",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "b8f349e5"
@@ -1786,7 +1786,7 @@
   {
     "id": "9b63facbb556788cf6335c71460d1a1e8bdac2434acf08dcd1cba341bdbc9107",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "9b63facb"
@@ -1794,7 +1794,7 @@
   {
     "id": "69c55be859a561c376a821966c91a77f2304fdccfe7058e407026f4f5e7f9211",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "69c55be8"
@@ -1802,7 +1802,7 @@
   {
     "id": "d6630f8f85d1efbb13d16541d2cacfc2bea65a0d3a4c86f0a5e578e96aa396e0",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "d6630f8f"
@@ -1810,7 +1810,7 @@
   {
     "id": "315e3239296fa1be5466f02d06da6b512f2a854dae0b7dfb60c5eb75cf5d2fda",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "315e3239"
@@ -1818,7 +1818,7 @@
   {
     "id": "565d5696ab658b33d4ad27bd6aa3c846f6ddeb04074acf83cbc5b7526fb56975",
     "course": "NGS - Next Generation Sequencing",
-    "type": "NGS_-_Next_Generation_Sequencing",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "565d5696"
@@ -1826,7 +1826,7 @@
   {
     "id": "ddebe838a4e6050feb541b4139c5c383084fc1da46f381209e4d3c38ec960476",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "ddebe838"
@@ -1834,7 +1834,7 @@
   {
     "id": "5222fdc3dbb170ba180020f3f6173192ec9844e754ff3c0de861973985c8f424",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "5222fdc3"
@@ -1842,7 +1842,7 @@
   {
     "id": "677dad27b6b4176f700b9e8b8a23f49d8d5ca73b4964718dae72ac86edf23905",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "677dad27"
@@ -1850,7 +1850,7 @@
   {
     "id": "0df9b3a4496c330f35c28550fe68f40d56b7fbae226fdcd899d2076df8f284a9",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "0df9b3a4"
@@ -1858,7 +1858,7 @@
   {
     "id": "39ceb474bc1405af3be8b36ca8955f02ab16de90912cc7269cec56569cbddefa",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "39ceb474"
@@ -1866,7 +1866,7 @@
   {
     "id": "3b906b28a4f192c9c42d57e53bb78a0103d2bb4f5d5853669c430ad60cfe7a17",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "3b906b28"
@@ -1874,7 +1874,7 @@
   {
     "id": "900deba1a5c081f4c95db7567de5fac1f8ffa815b8533f3d86940f432d1c11aa",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "900deba1"
@@ -1882,7 +1882,7 @@
   {
     "id": "3d7af5adedfd0fcc899abcc81a467927650bc826be0042b4763830e1054bef5c",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "3d7af5ad"
@@ -1890,7 +1890,7 @@
   {
     "id": "2b3755c29daeedac6d586d4a3488077d9058c830c89241cbf9aad4e976e91470",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "2b3755c2"
@@ -1898,7 +1898,7 @@
   {
     "id": "aa378934d3bef27f094cf15e35f3ee142efe5cc4ae896d4cd1665510a7ffbdfa",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "aa378934"
@@ -1906,7 +1906,7 @@
   {
     "id": "bc0b8eaff7e0dc2d5ddb00ace55d1037e19621f829825c09046486ec2752c07b",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "bc0b8eaf"
@@ -1914,7 +1914,7 @@
   {
     "id": "d583235aa690578699dccdbc5e238bf0aca71e6e01bf2b8be9edabdada29d65c",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "d583235a"
@@ -1922,7 +1922,7 @@
   {
     "id": "7796e81a23c488c1b63b66b80772569a9957ff5bfca4b7feda0dc52bc91bab93",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "7796e81a"
@@ -1930,7 +1930,7 @@
   {
     "id": "452f509099efa71566f868606ef299c370ccaa0b4d0eb542a7116ad5eb1e38d8",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "452f5090"
@@ -1938,7 +1938,7 @@
   {
     "id": "718869d6016d02c8d786eb5a0fdcb42350a3a86b0de982a8fc67caaa28ada3fe",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "718869d6"
@@ -1946,7 +1946,7 @@
   {
     "id": "9b3333eaa8f296b87d505b852065e5d95a30ef839be6a2e4e8021add6ce2e23f",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "9b3333ea"
@@ -1954,7 +1954,7 @@
   {
     "id": "2bf22abd6e11f1343eb45205c394044c58de4d644553904041865055125b9880",
     "course": "Machine Learning",
-    "type": "Machine_Learning",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "2bf22abd"
@@ -1962,7 +1962,7 @@
   {
     "id": "0b11dae6c0489f698882a169ca5f3da7ccb254e9d9f4f6d893f6734227ce7c79",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "0b11dae6"
@@ -1970,7 +1970,7 @@
   {
     "id": "db617797cea599a6ebc6d6b246e30c9d6d89c0b57bac57c9de46ca5a15d9f467",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "db617797"
@@ -1978,7 +1978,7 @@
   {
     "id": "5c1640e1fd02e9bfcf586f69a4aea9edcac66d13fa6d3c1273a72ad614f858d4",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "5c1640e1"
@@ -1986,7 +1986,7 @@
   {
     "id": "94b1db47789e2fdeb185398e77fa7ac1adb8d61c99433d0d7f5606718dace4a7",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "94b1db47"
@@ -1994,7 +1994,7 @@
   {
     "id": "02dd3ede07dbf7bdf79c2d5e4e8696f5a3ebc687efd8216c0779fd5745ccc739",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "02dd3ede"
@@ -2002,7 +2002,7 @@
   {
     "id": "a076961e5d00a65d3f64ca5daa72382590c4726546a8a355b772279ab9efd838",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "a076961e"
@@ -2010,7 +2010,7 @@
   {
     "id": "9c6f17b80fbe4374299e5645b5cb2fb6fc0abd09471c45ae85795c26313b53f6",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "9c6f17b8"
@@ -2018,7 +2018,7 @@
   {
     "id": "f258955348db0ae665265ec49ebd146c60d0d11169fbe6d6cc1d076b4dd526e9",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "f2589553"
@@ -2026,7 +2026,7 @@
   {
     "id": "dc2bb6ec668d0c0df857904c65b4e1562f1ccf191099331aa9edc96022654548",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "dc2bb6ec"
@@ -2034,7 +2034,7 @@
   {
     "id": "e3fbeaf63a95987d19de988fe0c2b3c6beb4077f5f1b9e19d8f720f416d27a9b",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "e3fbeaf6"
@@ -2042,7 +2042,7 @@
   {
     "id": "73e9b48d910d197e7e03819a52a294b2fb5a99ec0e60d623929442908ea447b2",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "73e9b48d"
@@ -2050,7 +2050,7 @@
   {
     "id": "132c1b4d5c8b133cbd0cbe8c28d2e0f8dc87abc8ac575e94c71d3aba63a8c421",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "132c1b4d"
@@ -2058,7 +2058,7 @@
   {
     "id": "8d64aa19e8dba33235fb0993960f38f965011e4c34638faf760c2473e9bfa144",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "8d64aa19"
@@ -2066,7 +2066,7 @@
   {
     "id": "841fe1c6c3731df60397364ecee2ada7a76f5bee1b9194369a322eb1daef4b1c",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "841fe1c6"
@@ -2074,7 +2074,7 @@
   {
     "id": "46a8b7649045d1b68fe8237f9c60ca1045a2236fe6ce02a5948d888ffd72b517",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "46a8b764"
@@ -2082,7 +2082,7 @@
   {
     "id": "57954a879531cc582deaa4216a6b708355c2acc261eac6011f87580517d52b8c",
     "course": "Proteogenômica",
-    "type": "Proteogenomica",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "57954a87"
@@ -2090,7 +2090,7 @@
   {
     "id": "8742bd6d02937630c49a56994a4d75bcd3a713577412198cc25e924cf160ed9d",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "8742bd6d"
@@ -2098,7 +2098,7 @@
   {
     "id": "621dfe7a0026a611a561922ed88094e94c2c51f2024ac2b4720fede792942c47",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "621dfe7a"
@@ -2106,7 +2106,7 @@
   {
     "id": "65b98a531a8630887a5007c171209152251facf4366cb0958426f4ace004246a",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "65b98a53"
@@ -2114,7 +2114,7 @@
   {
     "id": "461b41b6a09bcab4c0b66ad3186e94b79509e4ea7e53f19d9f9a06d55b73c6f0",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "461b41b6"
@@ -2122,7 +2122,7 @@
   {
     "id": "13e34af2bebaaa1edbc2bb06b1727501465d864884f54d4c17221bd2e5222d20",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "13e34af2"
@@ -2130,7 +2130,7 @@
   {
     "id": "c167329722741f679396ebcb66bc0e0fc4d6dbda50a4d8667efaedb69f8b83e5",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "c1673297"
@@ -2138,7 +2138,7 @@
   {
     "id": "8bbf7a98b32f841cd3aa97bef90361bddf34e8835d0f3574fd913cf56be07d8c",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "8bbf7a98"
@@ -2146,7 +2146,7 @@
   {
     "id": "8d5786f157c7be62e550311385cea9e11b0eb1943d7350db90e5dbf66c7ba8ef",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "8d5786f1"
@@ -2154,7 +2154,7 @@
   {
     "id": "1739a34d01b3e61b30b6a2222adf5d329b2049d07a6ce647f8d56438ba0699bb",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "1739a34d"
@@ -2162,7 +2162,7 @@
   {
     "id": "eea64c7fd2d17c27cca82ab027e4bb41e30334e86b03bcdba7b132d0af68f7ca",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "eea64c7f"
@@ -2170,7 +2170,7 @@
   {
     "id": "9d2a50ff1308b5e0eceed8ed8166106635ce275cf68e17a39504e0cd86b2ab6f",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "9d2a50ff"
@@ -2178,7 +2178,7 @@
   {
     "id": "ed646f66bf471b79df8882d2a638ca38b738d20f781fa3e8be35598f36246cdd",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "ed646f66"
@@ -2186,7 +2186,7 @@
   {
     "id": "6515267bd7ea1246651077aef1596e6415007953ccd0e2231b5af1f4ff48d09b",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "6515267b"
@@ -2194,7 +2194,7 @@
   {
     "id": "f44a1af01f7fa70ea5748bb317599a0c062f2123d98d6ef334c3b98c0d68d43e",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "f44a1af0"
@@ -2202,7 +2202,7 @@
   {
     "id": "da8e4155a25c4afa13bbc449574d99b3662db410e1889f73bd4c64e76cc80f8e",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "da8e4155"
@@ -2210,7 +2210,7 @@
   {
     "id": "d807dbb4e48da2c9cdca174ecd1a8c9a94ffd1531adc48752e7b25c7eb52ae6d",
     "course": "Genômica Comparativa",
-    "type": "Genomica_Comparativa",
+    "type": "minicurso",
     "hours": "2",
     "edition": "2020",
     "id_short": "d807dbb4"
@@ -2218,7 +2218,7 @@
   {
     "id": "c069e548569ac5a57954b77e077a93760dd5d0e0baf25acaa0a85bcf956a5ee1",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "c069e548"
@@ -2226,7 +2226,7 @@
   {
     "id": "e4652a070f8614fc9c11642e687830a301790ee1078befd05d558eaeec03897a",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "e4652a07"
@@ -2234,7 +2234,7 @@
   {
     "id": "e22f57d3f6391075080062142039102762db9628a3001bdbcdd82cc495bba997",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "e22f57d3"
@@ -2242,7 +2242,7 @@
   {
     "id": "ce1b0ae3a47bb441783413cff02a465b12370207df7aa339b7cdc392309913b4",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "ce1b0ae3"
@@ -2250,7 +2250,7 @@
   {
     "id": "5b43369a2e615fe17ce8648472d0923f32065f8127e3dc368606ca6b190f5c52",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "5b43369a"
@@ -2258,7 +2258,7 @@
   {
     "id": "50b52e6e3aa0ecc486f38681afab6cf457de51cfe9a8aba3abeae3b2b6ed9558",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "50b52e6e"
@@ -2266,7 +2266,7 @@
   {
     "id": "5c8cd4cea045791c5cee87e1e9ec0578a12e9e4754e5d4d73b49f9f3777c7613",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "5c8cd4ce"
@@ -2274,7 +2274,7 @@
   {
     "id": "6c7cc9b2052c8514c1e92ce1b1c57e0259a6567878d0c192dbf372dd71bf353a",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "6c7cc9b2"
@@ -2282,7 +2282,7 @@
   {
     "id": "4e24be9fb7bde451e2e8c3990b002fe5ae5b11c28b052b40fa908c06d29e22fd",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "4e24be9f"
@@ -2290,7 +2290,7 @@
   {
     "id": "48f42c6596d043f25b3679f5dbc5ca52421457bccbd1c0c89cf7680a19189065",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "48f42c65"
@@ -2298,7 +2298,7 @@
   {
     "id": "72d09c1a535140c738678ff1941de8e683bb5a86a1cf581337a599777215de27",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "72d09c1a"
@@ -2306,7 +2306,7 @@
   {
     "id": "22d5df4c7aebe5f345442c5b8e71b5af02b5bf622de33df6aeb83f66a1b77b86",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "22d5df4c"
@@ -2314,7 +2314,7 @@
   {
     "id": "6e7491270bf5ae0a778d9b07db35bed743505bd0449205de26d7ea545ef83a56",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "6e749127"
@@ -2322,7 +2322,7 @@
   {
     "id": "1a3b7d2cd2b541345c9ad948d3e799fe67fc78f54ad6a416291487649c6183d0",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "1a3b7d2c"
@@ -2330,7 +2330,7 @@
   {
     "id": "170e941691679dea12fcc1500a27f13e71f47c9ea4b371cac38444ef072cc5ea",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "170e9416"
@@ -2338,7 +2338,7 @@
   {
     "id": "79365068e456524fc09321edbf36aea40080b455c4b040ce663b76c7709f2064",
     "course": "Montagem e análises de genomas",
-    "type": "Montagem_e_analises_de_genomas",
+    "type": "minicurso",
     "hours": "4",
     "edition": "2020",
     "id_short": "79365068"
