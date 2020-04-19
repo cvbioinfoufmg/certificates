@@ -1,0 +1,18 @@
+# Certificado Válido
+
+Código: `1868fc4e`
+Categoria: minicurso
+Curso: Introdução à Transcriptômica
+Carga Horária: 4
+Edição: 2020
+
+
+Código completo: `1868fc4e8fc9a92b2c5a65f66164837e741059ed733a18513686970ebe72a80d`
+
+
+Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+
+----
+
+Qualquer dúvida contacte a [_Comissão Organizadora_](<mailto:cursobioinfoufmg@gmail.com$subject=[Certificados]>)
+
