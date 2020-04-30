@@ -1,16 +1,20 @@
+---
+permalink: /2020/a6e7ab10/index.html
+---
+
 # Certificado Válido
 
-Código: `a6e7ab10`
-Categoria: participante
-Curso: Evento Principal
-Carga Horária: 30
-Edição: 2020
+Código: `a6e7ab10`<br>
+Categoria: **participante**<br>
+Curso: **Evento Principal**<br>
+Carga Horária: **30**<br>
+Edição: **2020**<br>
 
 
 Código completo: `a6e7ab103fe9a367f98f7199b687b72d46492a61e0e7e56ea72e05e7930aaff7`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

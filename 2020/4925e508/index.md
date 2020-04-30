@@ -1,16 +1,20 @@
+---
+permalink: /2020/4925e508/index.html
+---
+
 # Certificado Válido
 
-Código: `4925e508`
-Categoria: minicurso
-Curso: Introdução à GNU/LINUX
-Carga Horária: 4
-Edição: 2020
+Código: `4925e508`<br>
+Categoria: **minicurso**<br>
+Curso: **Introdução à GNU/LINUX**<br>
+Carga Horária: **4**<br>
+Edição: **2020**<br>
 
 
 Código completo: `4925e508c03c6cb099753cabb613301ce9c8a631a431a3985ef7c47ed80470c9`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

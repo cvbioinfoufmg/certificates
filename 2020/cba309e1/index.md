@@ -1,16 +1,20 @@
+---
+permalink: /2020/cba309e1/index.html
+---
+
 # Certificado Válido
 
-Código: `cba309e1`
-Categoria: minicurso
-Curso: Introdução à Transcriptômica
-Carga Horária: 4
-Edição: 2020
+Código: `cba309e1`<br>
+Categoria: **minicurso**<br>
+Curso: **Introdução à Transcriptômica**<br>
+Carga Horária: **4**<br>
+Edição: **2020**<br>
 
 
 Código completo: `cba309e1150a7466435f3ab37acaa65e46d1733a82f8d82dda439394fa0a372b`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

@@ -1,16 +1,20 @@
+---
+permalink: /2020/502de425/index.html
+---
+
 # Certificado Válido
 
-Código: `502de425`
-Categoria: minicurso
-Curso: Docking molecular
-Carga Horária: 4
-Edição: 2020
+Código: `502de425`<br>
+Categoria: **minicurso**<br>
+Curso: **Docking molecular**<br>
+Carga Horária: **4**<br>
+Edição: **2020**<br>
 
 
 Código completo: `502de42521f4bf59f198c131e41e530d5884fe52b8071059227ead7893d66c4a`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

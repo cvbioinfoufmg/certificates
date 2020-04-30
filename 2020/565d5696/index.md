@@ -1,16 +1,20 @@
+---
+permalink: /2020/565d5696/index.html
+---
+
 # Certificado Válido
 
-Código: `565d5696`
-Categoria: minicurso
-Curso: NGS - Next Generation Sequencing
-Carga Horária: 2
-Edição: 2020
+Código: `565d5696`<br>
+Categoria: **minicurso**<br>
+Curso: **NGS - Next Generation Sequencing**<br>
+Carga Horária: **2**<br>
+Edição: **2020**<br>
 
 
 Código completo: `565d5696ab658b33d4ad27bd6aa3c846f6ddeb04074acf83cbc5b7526fb56975`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

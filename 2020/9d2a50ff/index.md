@@ -1,16 +1,20 @@
+---
+permalink: /2020/9d2a50ff/index.html
+---
+
 # Certificado Válido
 
-Código: `9d2a50ff`
-Categoria: minicurso
-Curso: Genômica Comparativa
-Carga Horária: 2
-Edição: 2020
+Código: `9d2a50ff`<br>
+Categoria: **minicurso**<br>
+Curso: **Genômica Comparativa**<br>
+Carga Horária: **2**<br>
+Edição: **2020**<br>
 
 
 Código completo: `9d2a50ff1308b5e0eceed8ed8166106635ce275cf68e17a39504e0cd86b2ab6f`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

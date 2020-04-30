@@ -1,16 +1,20 @@
+---
+permalink: /2020/ec966bd8/index.html
+---
+
 # Certificado Válido
 
-Código: `ec966bd8`
-Categoria: minicurso
-Curso: Metagenômica
-Carga Horária: 4
-Edição: 2020
+Código: `ec966bd8`<br>
+Categoria: **minicurso**<br>
+Curso: **Metagenômica**<br>
+Carga Horária: **4**<br>
+Edição: **2020**<br>
 
 
 Código completo: `ec966bd85b0a40cad3ded88b77aa029ccf224cf029058bac997bfe994fd37954`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

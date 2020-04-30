@@ -1,16 +1,20 @@
+---
+permalink: /2020/cb09c624/index.html
+---
+
 # Certificado Válido
 
-Código: `cb09c624`
-Categoria: minicurso
-Curso: Introdução à programação
-Carga Horária: 4
-Edição: 2020
+Código: `cb09c624`<br>
+Categoria: **minicurso**<br>
+Curso: **Introdução à programação**<br>
+Carga Horária: **4**<br>
+Edição: **2020**<br>
 
 
 Código completo: `cb09c6249079e31f863a84e4b4ee8366963e644aa79841ce47402378be483723`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

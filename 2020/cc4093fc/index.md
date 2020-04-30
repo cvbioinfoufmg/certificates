@@ -1,16 +1,20 @@
+---
+permalink: /2020/cc4093fc/index.html
+---
+
 # Certificado Válido
 
-Código: `cc4093fc`
-Categoria: minicurso
-Curso: Visualização de dados em R
-Carga Horária: 4
-Edição: 2020
+Código: `cc4093fc`<br>
+Categoria: **minicurso**<br>
+Curso: **Visualização de dados em R**<br>
+Carga Horária: **4**<br>
+Edição: **2020**<br>
 
 
 Código completo: `cc4093fc64f45327bbae94c82130accfb8888b902c6b411a7cc34757947dba7f`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

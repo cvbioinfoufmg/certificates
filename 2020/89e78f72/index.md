@@ -1,16 +1,20 @@
+---
+permalink: /2020/89e78f72/index.html
+---
+
 # Certificado Válido
 
-Código: `89e78f72`
-Categoria: minicurso
-Curso: Docking molecular
-Carga Horária: 4
-Edição: 2020
+Código: `89e78f72`<br>
+Categoria: **minicurso**<br>
+Curso: **Docking molecular**<br>
+Carga Horária: **4**<br>
+Edição: **2020**<br>
 
 
 Código completo: `89e78f72a58c125ac328e848f7eedcdc9609189c068d1523c0883fc16c93f8fe`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

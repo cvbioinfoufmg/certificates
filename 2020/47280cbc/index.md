@@ -1,16 +1,20 @@
+---
+permalink: /2020/47280cbc/index.html
+---
+
 # Certificado Válido
 
-Código: `47280cbc`
-Categoria: participante
-Curso: Evento Principal
-Carga Horária: 30
-Edição: 2020
+Código: `47280cbc`<br>
+Categoria: **participante**<br>
+Curso: **Evento Principal**<br>
+Carga Horária: **30**<br>
+Edição: **2020**<br>
 
 
 Código completo: `47280cbc979656bb28f8ede19e0131fe11b4da212fa1f23784c9a5e0ce26f930`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

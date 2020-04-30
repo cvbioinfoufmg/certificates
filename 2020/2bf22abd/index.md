@@ -1,16 +1,20 @@
+---
+permalink: /2020/2bf22abd/index.html
+---
+
 # Certificado Válido
 
-Código: `2bf22abd`
-Categoria: minicurso
-Curso: Machine Learning
-Carga Horária: 2
-Edição: 2020
+Código: `2bf22abd`<br>
+Categoria: **minicurso**<br>
+Curso: **Machine Learning**<br>
+Carga Horária: **2**<br>
+Edição: **2020**<br>
 
 
 Código completo: `2bf22abd6e11f1343eb45205c394044c58de4d644553904041865055125b9880`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

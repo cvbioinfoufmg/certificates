@@ -1,16 +1,20 @@
+---
+permalink: /2020/a5994eff/index.html
+---
+
 # Certificado Válido
 
-Código: `a5994eff`
-Categoria: participante
-Curso: Evento Principal
-Carga Horária: 30
-Edição: 2020
+Código: `a5994eff`<br>
+Categoria: **participante**<br>
+Curso: **Evento Principal**<br>
+Carga Horária: **30**<br>
+Edição: **2020**<br>
 
 
 Código completo: `a5994effe60ddb919f72e008c02c544bad493492fff88e1cdae9b414cbcaa938`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

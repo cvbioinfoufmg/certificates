@@ -1,16 +1,20 @@
+---
+permalink: /2020/91f48ddb/index.html
+---
+
 # Certificado Válido
 
-Código: `91f48ddb`
-Categoria: minicurso
-Curso: Introdução à programação
-Carga Horária: 4
-Edição: 2020
+Código: `91f48ddb`<br>
+Categoria: **minicurso**<br>
+Curso: **Introdução à programação**<br>
+Carga Horária: **4**<br>
+Edição: **2020**<br>
 
 
 Código completo: `91f48ddb8db9ae9b6514829326a4d03e4c4a200cd3fd414021ae2657ef0cebed`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

@@ -1,16 +1,20 @@
+---
+permalink: /2020/2fd502a9/index.html
+---
+
 # Certificado Válido
 
-Código: `2fd502a9`
-Categoria: minicurso
-Curso: Dinâmica molecular
-Carga Horária: 4
-Edição: 2020
+Código: `2fd502a9`<br>
+Categoria: **minicurso**<br>
+Curso: **Dinâmica molecular**<br>
+Carga Horária: **4**<br>
+Edição: **2020**<br>
 
 
 Código completo: `2fd502a9a718385d93b0a059396b9a8bbd2bf7527541deda18ca6587bce6e802`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

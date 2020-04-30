@@ -1,16 +1,20 @@
+---
+permalink: /2020/873b614d/index.html
+---
+
 # Certificado Válido
 
-Código: `873b614d`
-Categoria: minicurso
-Curso: Introdução à GNU/LINUX
-Carga Horária: 4
-Edição: 2020
+Código: `873b614d`<br>
+Categoria: **minicurso**<br>
+Curso: **Introdução à GNU/LINUX**<br>
+Carga Horária: **4**<br>
+Edição: **2020**<br>
 
 
 Código completo: `873b614ddbe1ab8962308ad6bfc366428249096b6e96b3505f021427dc1fbab7`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 

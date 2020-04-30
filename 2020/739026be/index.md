@@ -1,16 +1,20 @@
+---
+permalink: /2020/739026be/index.html
+---
+
 # Certificado Válido
 
-Código: `739026be`
-Categoria: minicurso
-Curso: Introdução à programação
-Carga Horária: 4
-Edição: 2020
+Código: `739026be`<br>
+Categoria: **minicurso**<br>
+Curso: **Introdução à programação**<br>
+Carga Horária: **4**<br>
+Edição: **2020**<br>
 
 
 Código completo: `739026be1d24f58b349220f7d03b2969e3dda58f5abae964c8f6245b52f46206`
 
 
-Este certificado foi expedido pela Comissão organizadora do IV Curso de Verão em Bioinformática da UFMG.
+Este certificado foi expedido pela Comissão organizadora do *IV Curso de Verão em Bioinformática da UFMG*.
 
 ----
 
