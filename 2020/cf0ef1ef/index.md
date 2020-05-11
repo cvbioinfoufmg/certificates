@@ -7,6 +7,7 @@ permalink: /2020/cf0ef1ef/index.html
 Código: `cf0ef1ef`<br>
 Categoria: **minicurso**<br>
 Curso: **Vacinologia Reversa**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

@@ -7,6 +7,7 @@ permalink: /2020/d583235a/index.html
 Código: `d583235a`<br>
 Categoria: **minicurso**<br>
 Curso: **Machine Learning**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

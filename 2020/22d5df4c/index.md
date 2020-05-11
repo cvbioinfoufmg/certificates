@@ -7,6 +7,7 @@ permalink: /2020/22d5df4c/index.html
 Código: `22d5df4c`<br>
 Categoria: **minicurso**<br>
 Curso: **Montagem e análises de genomas**<br>
+Data: **31/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

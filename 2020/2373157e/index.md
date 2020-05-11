@@ -7,6 +7,7 @@ permalink: /2020/2373157e/index.html
 Código: `2373157e`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à GNU/LINUX**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

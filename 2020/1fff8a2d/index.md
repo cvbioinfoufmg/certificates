@@ -7,6 +7,7 @@ permalink: /2020/1fff8a2d/index.html
 Código: `1fff8a2d`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à programação**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

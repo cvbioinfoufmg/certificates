@@ -7,6 +7,7 @@ permalink: /2020/f23d0a2a/index.html
 Código: `f23d0a2a`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à programação**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

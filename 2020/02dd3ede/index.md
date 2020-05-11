@@ -7,6 +7,7 @@ permalink: /2020/02dd3ede/index.html
 Código: `02dd3ede`<br>
 Categoria: **minicurso**<br>
 Curso: **Proteogenômica**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

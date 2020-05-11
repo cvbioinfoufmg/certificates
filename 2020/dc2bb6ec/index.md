@@ -7,6 +7,7 @@ permalink: /2020/dc2bb6ec/index.html
 Código: `dc2bb6ec`<br>
 Categoria: **minicurso**<br>
 Curso: **Proteogenômica**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

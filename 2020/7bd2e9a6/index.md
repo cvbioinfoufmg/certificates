@@ -7,6 +7,7 @@ permalink: /2020/7bd2e9a6/index.html
 Código: `7bd2e9a6`<br>
 Categoria: **minicurso**<br>
 Curso: **Visualização de dados em R**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

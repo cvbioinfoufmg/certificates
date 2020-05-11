@@ -7,6 +7,7 @@ permalink: /2020/1c80c4c3/index.html
 Código: `1c80c4c3`<br>
 Categoria: **minicurso**<br>
 Curso: **Genômica e evolução**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

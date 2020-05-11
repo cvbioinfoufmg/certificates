@@ -7,6 +7,7 @@ permalink: /2020/d807dbb4/index.html
 Código: `d807dbb4`<br>
 Categoria: **minicurso**<br>
 Curso: **Genômica Comparativa**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

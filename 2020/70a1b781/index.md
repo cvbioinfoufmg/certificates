@@ -7,6 +7,7 @@ permalink: /2020/70a1b781/index.html
 Código: `70a1b781`<br>
 Categoria: **participante**<br>
 Curso: **Evento Principal**<br>
+Data: **27/01/2020 a 31/01/2020**<br>
 Carga Horária: **30**<br>
 Edição: **2020**<br>
 

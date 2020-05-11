@@ -7,6 +7,7 @@ permalink: /2020/c2496ef2/index.html
 Código: `c2496ef2`<br>
 Categoria: **minicurso**<br>
 Curso: **Docking molecular**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

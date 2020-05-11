@@ -7,6 +7,7 @@ permalink: /2020/700e5bd1/index.html
 Código: `700e5bd1`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à programação**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

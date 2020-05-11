@@ -7,6 +7,7 @@ permalink: /2020/d3fe49ca/index.html
 Código: `d3fe49ca`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à Transcriptômica**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

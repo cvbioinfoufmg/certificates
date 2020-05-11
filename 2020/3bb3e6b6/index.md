@@ -7,6 +7,7 @@ permalink: /2020/3bb3e6b6/index.html
 Código: `3bb3e6b6`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à programação**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

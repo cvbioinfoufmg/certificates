@@ -7,6 +7,7 @@ permalink: /2020/df77142c/index.html
 Código: `df77142c`<br>
 Categoria: **minicurso**<br>
 Curso: **Vacinologia Reversa**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

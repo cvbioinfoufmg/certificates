@@ -7,6 +7,7 @@ permalink: /2020/959f9c2d/index.html
 Código: `959f9c2d`<br>
 Categoria: **minicurso**<br>
 Curso: **NGS - Next Generation Sequencing**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

@@ -7,6 +7,7 @@ permalink: /2020/31d30c20/index.html
 Código: `31d30c20`<br>
 Categoria: **minicurso**<br>
 Curso: **Pesquisa em Banco de Dados**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

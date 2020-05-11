@@ -7,6 +7,7 @@ permalink: /2020/ff8ce72c/index.html
 Código: `ff8ce72c`<br>
 Categoria: **minicurso**<br>
 Curso: **Visualização de dados em R**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

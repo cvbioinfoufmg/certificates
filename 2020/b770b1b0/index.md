@@ -7,6 +7,7 @@ permalink: /2020/b770b1b0/index.html
 Código: `b770b1b0`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à programação**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

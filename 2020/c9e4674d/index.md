@@ -7,6 +7,7 @@ permalink: /2020/c9e4674d/index.html
 Código: `c9e4674d`<br>
 Categoria: **minicurso**<br>
 Curso: **Metagenômica**<br>
+Data: **31/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

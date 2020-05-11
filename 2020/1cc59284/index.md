@@ -7,6 +7,7 @@ permalink: /2020/1cc59284/index.html
 Código: `1cc59284`<br>
 Categoria: **minicurso**<br>
 Curso: **Patentes e transferência de Propriedade Intelectual**<br>
+Data: **31/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

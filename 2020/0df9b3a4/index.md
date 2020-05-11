@@ -7,6 +7,7 @@ permalink: /2020/0df9b3a4/index.html
 Código: `0df9b3a4`<br>
 Categoria: **minicurso**<br>
 Curso: **Machine Learning**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

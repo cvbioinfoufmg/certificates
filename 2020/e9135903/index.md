@@ -7,6 +7,7 @@ permalink: /2020/e9135903/index.html
 Código: `e9135903`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à programação**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

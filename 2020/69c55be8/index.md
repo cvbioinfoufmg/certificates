@@ -7,6 +7,7 @@ permalink: /2020/69c55be8/index.html
 Código: `69c55be8`<br>
 Categoria: **minicurso**<br>
 Curso: **NGS - Next Generation Sequencing**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

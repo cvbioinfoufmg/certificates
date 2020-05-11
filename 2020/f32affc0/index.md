@@ -7,6 +7,7 @@ permalink: /2020/f32affc0/index.html
 Código: `f32affc0`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à GNU/LINUX**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

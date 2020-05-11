@@ -7,6 +7,7 @@ permalink: /2020/db617797/index.html
 Código: `db617797`<br>
 Categoria: **minicurso**<br>
 Curso: **Proteogenômica**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

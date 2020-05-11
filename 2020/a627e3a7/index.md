@@ -7,6 +7,7 @@ permalink: /2020/a627e3a7/index.html
 Código: `a627e3a7`<br>
 Categoria: **minicurso**<br>
 Curso: **Detecção de variantes**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

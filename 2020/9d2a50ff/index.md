@@ -7,6 +7,7 @@ permalink: /2020/9d2a50ff/index.html
 Código: `9d2a50ff`<br>
 Categoria: **minicurso**<br>
 Curso: **Genômica Comparativa**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

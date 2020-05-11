@@ -7,6 +7,7 @@ permalink: /2020/8eb38807/index.html
 Código: `8eb38807`<br>
 Categoria: **participante**<br>
 Curso: **Evento Principal**<br>
+Data: **27/01/2020 a 31/01/2020**<br>
 Carga Horária: **30**<br>
 Edição: **2020**<br>
 

@@ -7,6 +7,7 @@ permalink: /2020/20f2802f/index.html
 Código: `20f2802f`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à GNU/LINUX**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

@@ -7,6 +7,7 @@ permalink: /2020/b8eaac4c/index.html
 Código: `b8eaac4c`<br>
 Categoria: **minicurso**<br>
 Curso: **Metagenômica**<br>
+Data: **31/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

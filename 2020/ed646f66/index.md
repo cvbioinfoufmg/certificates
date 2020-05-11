@@ -7,6 +7,7 @@ permalink: /2020/ed646f66/index.html
 Código: `ed646f66`<br>
 Categoria: **minicurso**<br>
 Curso: **Genômica Comparativa**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

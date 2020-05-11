@@ -7,6 +7,7 @@ permalink: /2020/56ca289a/index.html
 Código: `56ca289a`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução a linguagem R**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

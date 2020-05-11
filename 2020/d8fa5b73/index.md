@@ -7,6 +7,7 @@ permalink: /2020/d8fa5b73/index.html
 Código: `d8fa5b73`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à GNU/LINUX**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

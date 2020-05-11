@@ -7,6 +7,7 @@ permalink: /2020/64225d5f/index.html
 Código: `64225d5f`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à programação**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

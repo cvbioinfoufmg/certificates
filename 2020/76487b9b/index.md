@@ -7,6 +7,7 @@ permalink: /2020/76487b9b/index.html
 Código: `76487b9b`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução a linguagem R**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

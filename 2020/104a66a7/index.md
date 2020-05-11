@@ -7,6 +7,7 @@ permalink: /2020/104a66a7/index.html
 Código: `104a66a7`<br>
 Categoria: **minicurso**<br>
 Curso: **Dinâmica molecular**<br>
+Data: **31/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

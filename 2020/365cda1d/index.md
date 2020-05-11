@@ -7,6 +7,7 @@ permalink: /2020/365cda1d/index.html
 Código: `365cda1d`<br>
 Categoria: **minicurso**<br>
 Curso: **Dinâmica molecular**<br>
+Data: **31/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

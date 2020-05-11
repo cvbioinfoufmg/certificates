@@ -7,6 +7,7 @@ permalink: /2020/32d5d3ad/index.html
 Código: `32d5d3ad`<br>
 Categoria: **minicurso**<br>
 Curso: **Pesquisa em Banco de Dados**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

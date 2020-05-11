@@ -7,6 +7,7 @@ permalink: /2020/da8e4155/index.html
 Código: `da8e4155`<br>
 Categoria: **minicurso**<br>
 Curso: **Genômica Comparativa**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

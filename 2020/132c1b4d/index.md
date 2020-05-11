@@ -7,6 +7,7 @@ permalink: /2020/132c1b4d/index.html
 Código: `132c1b4d`<br>
 Categoria: **minicurso**<br>
 Curso: **Proteogenômica**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

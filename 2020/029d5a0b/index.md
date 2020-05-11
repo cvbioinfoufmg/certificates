@@ -7,6 +7,7 @@ permalink: /2020/029d5a0b/index.html
 Código: `029d5a0b`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à Transcriptômica**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

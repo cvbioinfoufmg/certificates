@@ -7,6 +7,7 @@ permalink: /2020/147d1245/index.html
 Código: `147d1245`<br>
 Categoria: **minicurso**<br>
 Curso: **Dinâmica molecular**<br>
+Data: **31/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

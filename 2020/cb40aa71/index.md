@@ -7,6 +7,7 @@ permalink: /2020/cb40aa71/index.html
 Código: `cb40aa71`<br>
 Categoria: **minicurso**<br>
 Curso: **Visualização de dados em R**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

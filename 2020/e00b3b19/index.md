@@ -7,6 +7,7 @@ permalink: /2020/e00b3b19/index.html
 Código: `e00b3b19`<br>
 Categoria: **minicurso**<br>
 Curso: **Genômica e evolução**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

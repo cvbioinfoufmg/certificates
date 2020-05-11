@@ -7,6 +7,7 @@ permalink: /2020/a9fd790c/index.html
 Código: `a9fd790c`<br>
 Categoria: **minicurso**<br>
 Curso: **Detecção de variantes**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

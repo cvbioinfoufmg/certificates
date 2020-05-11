@@ -7,6 +7,7 @@ permalink: /2020/73fd0463/index.html
 Código: `73fd0463`<br>
 Categoria: **minicurso**<br>
 Curso: **Patentes e transferência de Propriedade Intelectual**<br>
+Data: **31/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

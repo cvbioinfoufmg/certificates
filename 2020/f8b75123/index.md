@@ -7,6 +7,7 @@ permalink: /2020/f8b75123/index.html
 Código: `f8b75123`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à Transcriptômica**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

@@ -7,6 +7,7 @@ permalink: /2020/3b906b28/index.html
 Código: `3b906b28`<br>
 Categoria: **minicurso**<br>
 Curso: **Machine Learning**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

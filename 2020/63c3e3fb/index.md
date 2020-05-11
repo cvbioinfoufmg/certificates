@@ -7,6 +7,7 @@ permalink: /2020/63c3e3fb/index.html
 Código: `63c3e3fb`<br>
 Categoria: **minicurso**<br>
 Curso: **Visualização de dados em R**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

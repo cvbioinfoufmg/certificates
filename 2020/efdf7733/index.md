@@ -7,6 +7,7 @@ permalink: /2020/efdf7733/index.html
 Código: `efdf7733`<br>
 Categoria: **participante**<br>
 Curso: **Evento Principal**<br>
+Data: **27/01/2020 a 31/01/2020**<br>
 Carga Horária: **30**<br>
 Edição: **2020**<br>
 

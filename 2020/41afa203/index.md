@@ -7,6 +7,7 @@ permalink: /2020/41afa203/index.html
 Código: `41afa203`<br>
 Categoria: **minicurso**<br>
 Curso: **Metagenômica**<br>
+Data: **31/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

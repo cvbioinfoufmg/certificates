@@ -7,6 +7,7 @@ permalink: /2020/bc0b8eaf/index.html
 Código: `bc0b8eaf`<br>
 Categoria: **minicurso**<br>
 Curso: **Machine Learning**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

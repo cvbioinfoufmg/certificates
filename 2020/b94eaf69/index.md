@@ -7,6 +7,7 @@ permalink: /2020/b94eaf69/index.html
 Código: `b94eaf69`<br>
 Categoria: **minicurso**<br>
 Curso: **Pesquisa em Banco de Dados**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

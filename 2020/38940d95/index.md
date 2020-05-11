@@ -7,6 +7,7 @@ permalink: /2020/38940d95/index.html
 Código: `38940d95`<br>
 Categoria: **minicurso**<br>
 Curso: **Visualização de dados em R**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

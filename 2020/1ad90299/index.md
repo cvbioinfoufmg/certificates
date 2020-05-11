@@ -7,6 +7,7 @@ permalink: /2020/1ad90299/index.html
 Código: `1ad90299`<br>
 Categoria: **minicurso**<br>
 Curso: **Vacinologia Reversa**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

@@ -7,6 +7,7 @@ permalink: /2020/f3381bda/index.html
 Código: `f3381bda`<br>
 Categoria: **minicurso**<br>
 Curso: **Docking molecular**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

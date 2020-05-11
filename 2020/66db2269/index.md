@@ -7,6 +7,7 @@ permalink: /2020/66db2269/index.html
 Código: `66db2269`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à Transcriptômica**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

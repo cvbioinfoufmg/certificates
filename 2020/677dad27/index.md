@@ -7,6 +7,7 @@ permalink: /2020/677dad27/index.html
 Código: `677dad27`<br>
 Categoria: **minicurso**<br>
 Curso: **Machine Learning**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

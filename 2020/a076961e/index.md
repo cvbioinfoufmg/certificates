@@ -7,6 +7,7 @@ permalink: /2020/a076961e/index.html
 Código: `a076961e`<br>
 Categoria: **minicurso**<br>
 Curso: **Proteogenômica**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

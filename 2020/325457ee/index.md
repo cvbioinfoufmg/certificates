@@ -7,6 +7,7 @@ permalink: /2020/325457ee/index.html
 Código: `325457ee`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à GNU/LINUX**<br>
+Data: **28/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

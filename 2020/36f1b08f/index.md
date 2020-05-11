@@ -7,6 +7,7 @@ permalink: /2020/36f1b08f/index.html
 Código: `36f1b08f`<br>
 Categoria: **minicurso**<br>
 Curso: **Detecção de variantes**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

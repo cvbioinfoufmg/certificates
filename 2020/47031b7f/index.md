@@ -7,6 +7,7 @@ permalink: /2020/47031b7f/index.html
 Código: `47031b7f`<br>
 Categoria: **minicurso**<br>
 Curso: **Pesquisa em Banco de Dados**<br>
+Data: **29/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

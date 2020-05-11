@@ -7,6 +7,7 @@ permalink: /2020/a8c51c90/index.html
 Código: `a8c51c90`<br>
 Categoria: **minicurso**<br>
 Curso: **Vacinologia Reversa**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 

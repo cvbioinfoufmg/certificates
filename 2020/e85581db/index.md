@@ -7,6 +7,7 @@ permalink: /2020/e85581db/index.html
 Código: `e85581db`<br>
 Categoria: **minicurso**<br>
 Curso: **Introdução à Transcriptômica**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **4**<br>
 Edição: **2020**<br>
 

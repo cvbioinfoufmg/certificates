@@ -7,6 +7,7 @@ permalink: /2020/c5bc3d3a/index.html
 Código: `c5bc3d3a`<br>
 Categoria: **minicurso**<br>
 Curso: **Vacinologia Reversa**<br>
+Data: **30/01/2020**<br>
 Carga Horária: **2**<br>
 Edição: **2020**<br>
 
