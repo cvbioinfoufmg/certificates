@@ -4617,3 +4617,68 @@
     "id_short": "76a7cd3b"
   }
 ]
+[
+  {
+    "id": "4ffea88e235c1f089af9ed6cde8ee1edb30d64ea03396354ac1c1a6dbff3c702",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "4ffea88e"
+  },
+  {
+    "id": "5744aec564c9f002e6f86d8e6a48f611d600becd7418eb5136432cb30d759307",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "5744aec5"
+  },
+  {
+    "id": "49322f631ced5eb2dd78287623ba23daf56db21560aa02cb1c6acd117c244130",
+    "course": "Montagem e análises de genomas",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "49322f63"
+  },
+  {
+    "id": "3927bed6148e97fb799ebfee8e8f9e46f8340d3dcdc953e2cbddead1e18a6859",
+    "course": "Metagenômica",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "3927bed6"
+  },
+  {
+    "id": "80a6ab908f5a7e0fd703c32c52077fcc62931fa602390abb5fea71d3e3959538",
+    "course": "Visualização de dados em R",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "80a6ab90"
+  },
+  {
+    "id": "1081b8eba80e4406408646798df51b79e296ce0c93a93c5cd8889a4a96d11442",
+    "course": "Introdução à Transcriptômica",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "1081b8eb"
+  },
+  {
+    "id": "83d0693840342cea9a79c67a51c3aea1dfd14479ec5ecaeefd22a5cb2e138745",
+    "course": "Patentes e transferência de Propriedade Intelectual",
+    "type": "monitor_minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "83d06938"
+  }
+]
