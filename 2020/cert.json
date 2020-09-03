@@ -61,5 +61,4424 @@
     "edition": "2020",
     "date": "31/01/2020",
     "id_short": "83d06938"
+  },
+  {
+    "id": "114bb398c5ded7423b2136bde13fd89f356aacbb5626c11087decfb40a9d2dd0",
+    "type": "participante",
+    "id_short": "114bb398"
+  },
+  {
+    "id": "dc87cd2d14157f763417423515afab4aab4cb351d4c379281afc455bfcbf467e",
+    "type": "participante",
+    "id_short": "dc87cd2d"
+  },
+  {
+    "id": "e40dcb2a6e7470f941b24646c728946397d2a6c910db2b20e787547ff23ae408",
+    "type": "participante",
+    "id_short": "e40dcb2a"
+  },
+  {
+    "id": "3f67f173b204f2d683321450f039009ff132299c4724c61b222a8dde02a7033e",
+    "type": "participante",
+    "id_short": "3f67f173"
+  },
+  {
+    "id": "b720d16da81ed2839eced61707c23fab2149a8fc272a73940183a00a5716d0b2",
+    "type": "participante",
+    "id_short": "b720d16d"
+  },
+  {
+    "id": "bc744f499b3f236cadd165705b089644cf14137cf1402a7b5ba32a1b878da58f",
+    "type": "participante",
+    "id_short": "bc744f49"
+  },
+  {
+    "id": "b4a05de0865d2abdf34a547517c15630df66319f3fa3c5094fe1ba8f3e9bbac1",
+    "type": "participante",
+    "id_short": "b4a05de0"
+  },
+  {
+    "id": "f7d6fd62b7632c9b15405a9c8135ef60bc7e30ca428cf50ca7deacac5e43a065",
+    "type": "participante",
+    "id_short": "f7d6fd62"
+  },
+  {
+    "id": "3d52a3e69d6dac699066f7f94c47d3b9fdc31e64103536948107143e0348c6a7",
+    "type": "participante",
+    "id_short": "3d52a3e6"
+  },
+  {
+    "id": "ca653a326d88afc0a0ba4f13f269641f884a2e58361fe2052463cb64b01b4e89",
+    "type": "participante",
+    "id_short": "ca653a32"
+  },
+  {
+    "id": "872ac5dee346b0859a45ea37ad20dc8766c4f6ec0f037ebaf483781ab008153c",
+    "type": "participante",
+    "id_short": "872ac5de"
+  },
+  {
+    "id": "f462d8bfeb28fc1d32e400bde229bc535e3ddc1fe2869965e65fa7ca78a09b7e",
+    "type": "participante",
+    "id_short": "f462d8bf"
+  },
+  {
+    "id": "a15669ec02a9501d2d954e5e201ae0102c29acc5769e105340fc7bff2d43d0e4",
+    "type": "participante",
+    "id_short": "a15669ec"
+  },
+  {
+    "id": "c7a9c47b9535ebecf0178344e59f93237561dd64d1fc5ff0708d6f01357bdc83",
+    "type": "participante",
+    "id_short": "c7a9c47b"
+  },
+  {
+    "id": "6e289edb5dd58e3981ff7591f14a83bcc018df4fee9b9bb958d33623c5adb97b",
+    "type": "participante",
+    "id_short": "6e289edb"
+  },
+  {
+    "id": "6d070e0792c1626cf5d5c9d15f16a676a448da0ae5bf8660c4b6298158e35881",
+    "type": "participante",
+    "id_short": "6d070e07"
+  },
+  {
+    "id": "02a19414a80366e4f7e4c12c167d39382e32f99a368de0148cb88b2920d67e06",
+    "type": "participante",
+    "id_short": "02a19414"
+  },
+  {
+    "id": "d3de33678494de006393a3361b33b5247c85ea2d032317aae25b342f52883868",
+    "type": "participante",
+    "id_short": "d3de3367"
+  },
+  {
+    "id": "136b02025777cf808f784cd97d2514575f47a1d82cbc341d8a44fbbb73bdf00f",
+    "type": "participante",
+    "id_short": "136b0202"
+  },
+  {
+    "id": "3b8c7c4244ca51b758a17127ec2ec1c303ffcbbd59124b0871ab734280b2e9e8",
+    "type": "participante",
+    "id_short": "3b8c7c42"
+  },
+  {
+    "id": "a1a658a109dc6eff59d157c2edc8b135357faf2b9ddee1dd5a4f5cacd1575ef8",
+    "type": "participante",
+    "id_short": "a1a658a1"
+  },
+  {
+    "id": "266dcc00df344cdb10ea1e5ce3876ca304d5714a6f6c3822084eda16e7137652",
+    "type": "participante",
+    "id_short": "266dcc00"
+  },
+  {
+    "id": "3c509479b64ee2f58a11742f9831a737583cdb543ca1b50e1094b6d8d6779180",
+    "type": "participante",
+    "id_short": "3c509479"
+  },
+  {
+    "id": "61e01f7faf1f7a376ad432cb7c06fcfe92e352e036e03ce6b8961c87c3d1c2d8",
+    "type": "participante",
+    "id_short": "61e01f7f"
+  },
+  {
+    "id": "ea4fb1ede7b484b33caf32e0dbe9b2f7099386a8e6c2d771619dc4b51ff5bf6d",
+    "type": "participante",
+    "id_short": "ea4fb1ed"
+  },
+  {
+    "id": "e18947c2b9ef2cf4d382e947787edebe28ad888d07f6952cf271f0ebd2cab12f",
+    "type": "participante",
+    "id_short": "e18947c2"
+  },
+  {
+    "id": "b6fe89db0a6c4b5636ffd95ecb7a867fcdb051508e83d6dc1553c81c1f78262a",
+    "type": "participante",
+    "id_short": "b6fe89db"
+  },
+  {
+    "id": "a9dbc52bce40d21cbf61cf1bb08dfb54545c456397ca84bf5fc8594bf659c385",
+    "type": "participante",
+    "id_short": "a9dbc52b"
+  },
+  {
+    "id": "504914eff0918d8f5776fc80efe841176f71f8b198fad5f404bc1ad45472eca4",
+    "type": "participante",
+    "id_short": "504914ef"
+  },
+  {
+    "id": "3bdb3dfa9b7d3e8460cbb546f88e35037596fe33eb5a86bf2984a4439df330c0",
+    "type": "participante",
+    "id_short": "3bdb3dfa"
+  },
+  {
+    "id": "db726bf00544f3c816ec59a9d0c058236808ad66f3a5c5776fb7299dd2d04781",
+    "type": "participante",
+    "id_short": "db726bf0"
+  },
+  {
+    "id": "a192d5fa64dba36b3f874c2bedd623b55a103cd43d9ec63e364df01d4e7cd2f3",
+    "type": "participante",
+    "id_short": "a192d5fa"
+  },
+  {
+    "id": "5cc433decac9999229ef4a17a77637b2dd7a3ce4d9dd3d929838b322d01f75e2",
+    "type": "participante",
+    "id_short": "5cc433de"
+  },
+  {
+    "id": "b54959dd3f07072242f320f84a3a4a4e5b08683d3c834fcf88afea78e9ee4d44",
+    "type": "participante",
+    "id_short": "b54959dd"
+  },
+  {
+    "id": "26aeff37ecf1b74b868e1daeab4d34a861a0dcb3b1ce68d72f127d6847524c9f",
+    "type": "participante",
+    "id_short": "26aeff37"
+  },
+  {
+    "id": "ad4908ebd7ec1b3e3dcdcca0c04c17d46f0cbce7f4db9cf60bf34833b0f5e8a2",
+    "type": "participante",
+    "id_short": "ad4908eb"
+  },
+  {
+    "id": "6a02de9872c94c95ce913fe5c47481f07178692b6ac4f918b327bca98bb0cdbf",
+    "type": "participante",
+    "id_short": "6a02de98"
+  },
+  {
+    "id": "1ecde98ec861f5b679b555d210f96c08fc54b554dcace25d3a8118e5ee33b25f",
+    "type": "participante",
+    "id_short": "1ecde98e"
+  },
+  {
+    "id": "cb52f2c093186eb930f56731547a3849f4df6c8e735cc0ae26b814ccd592e929",
+    "type": "participante",
+    "id_short": "cb52f2c0"
+  },
+  {
+    "id": "88e99c0d6ee37a45173ccbd471dbe05ccc148588129e6c3d088f2dc4327cfb20",
+    "type": "participante",
+    "id_short": "88e99c0d"
+  },
+  {
+    "id": "8b84bb53776bd72c1427a87c52dd3c73dd1b3c64bf3810599934ca27378cc8f3",
+    "type": "participante",
+    "id_short": "8b84bb53"
+  },
+  {
+    "id": "b90bddd3c7b71a0f2a5fe22163fa55f06b7957d08413af1b06859883688dd475",
+    "type": "participante",
+    "id_short": "b90bddd3"
+  },
+  {
+    "id": "5eb4f11045d95010bfe5f65625e895bd9702eae140f7175eb204d18d5961fd77",
+    "type": "participante",
+    "id_short": "5eb4f110"
+  },
+  {
+    "id": "adfa1011d3aaf893031250b6a03e443a41bc5f2105eed356e22c385194cb6e15",
+    "type": "participante",
+    "id_short": "adfa1011"
+  },
+  {
+    "id": "e339b041c9bcd868c08e15cd8e4bbc419e0daf0f970c4fecda6283b1c53c8fb8",
+    "type": "participante",
+    "id_short": "e339b041"
+  },
+  {
+    "id": "fdbde27ff84ca5c219b92e687f3179547ffa90f8314533b3e0abd69be45b22ac",
+    "type": "participante",
+    "id_short": "fdbde27f"
+  },
+  {
+    "id": "9247f897fdd8d0d46110bf80c7260ba96af4f54582bcbfdb9aa3de68b0adc667",
+    "type": "participante",
+    "id_short": "9247f897"
+  },
+  {
+    "id": "ac62982088e633375f6e044d7495f6470161c869a16bdb1496f26807c076c8e2",
+    "type": "participante",
+    "id_short": "ac629820"
+  },
+  {
+    "id": "15caff00aa7eaec1527a2105815ba1fd12dd2baa3b61043b6b70882ce5279b22",
+    "type": "participante",
+    "id_short": "15caff00"
+  },
+  {
+    "id": "15e475c5b4977a988bfad8958e4ff98102e6522e200770b79d3841e542d3dcf8",
+    "type": "participante",
+    "id_short": "15e475c5"
+  },
+  {
+    "id": "b2850a3f74ec83fbef699078a81c254371a685919497981eb99317ec57e597fe",
+    "type": "participante",
+    "id_short": "b2850a3f"
+  },
+  {
+    "id": "5ee18b76d9c455aede7f3b8c765a80135105e42b03a105560ab4a4606d21be74",
+    "type": "participante",
+    "id_short": "5ee18b76"
+  },
+  {
+    "id": "58b0bccfe5d65a49ed7ba46955de551fe80812877f48e36896360c9034b82334",
+    "type": "participante",
+    "id_short": "58b0bccf"
+  },
+  {
+    "id": "eeaa7406ff5be052b0a3cae7510180115c4f5ab8c89a867b317da2c6529440f5",
+    "type": "participante",
+    "id_short": "eeaa7406"
+  },
+  {
+    "id": "a826c4e7a24d5da398f31f7fa74a14b1ecf2c9409733478d376b4b4af4de5ca7",
+    "type": "participante",
+    "id_short": "a826c4e7"
+  },
+  {
+    "id": "87e19d2b5af7413d687329edc29d7cd8b3fa30634ab83feea1a2ec5d178b0a45",
+    "type": "participante",
+    "id_short": "87e19d2b"
+  },
+  {
+    "id": "f909334043cc4a74b3f23532ff55c8518fd84359cd0334e365b255fc5af6d9bc",
+    "type": "participante",
+    "id_short": "f9093340"
+  },
+  {
+    "id": "4aa7a72351a4049883f79b20d0a39b9605bd847c0737bd7ebe9c5ac552c51ff0",
+    "type": "participante",
+    "id_short": "4aa7a723"
+  },
+  {
+    "id": "d97daa650ffb39e1273d907b77882b29aaab6e73564f1745fb18a4a32ce04118",
+    "type": "participante",
+    "id_short": "d97daa65"
+  },
+  {
+    "id": "c5462a43281367db9f850ba3663615aac8749ba12679ea32bc697c2c0fe02e7f",
+    "type": "participante",
+    "id_short": "c5462a43"
+  },
+  {
+    "id": "72f89c216140573775d44186bb9f9817f6b30c4deff366d7b5e6d404ba972d45",
+    "type": "participante",
+    "id_short": "72f89c21"
+  },
+  {
+    "id": "dc785adbdf28af4994531324d82b4a8add612c63477e28d23c9f3d7f34383ad1",
+    "type": "participante",
+    "id_short": "dc785adb"
+  },
+  {
+    "id": "7aaf70c5bf8e281d7dd01343f069abc7d973940773bcd595215662dbdf3934cb",
+    "type": "participante",
+    "id_short": "7aaf70c5"
+  },
+  {
+    "id": "214e4bb40a74cec9a21ff2e19207024f449b327945bcb6b459a5e195c31d626c",
+    "type": "participante",
+    "id_short": "214e4bb4"
+  },
+  {
+    "id": "125c918a47a6e09f600262f117f85c1a281172f4560c3bee3453553824af67f5",
+    "type": "participante",
+    "id_short": "125c918a"
+  },
+  {
+    "id": "e9eb657b4ccbaebc974136acf29853519913942ea7d49fb78aed9461f5297011",
+    "type": "participante",
+    "id_short": "e9eb657b"
+  },
+  {
+    "id": "64ec39459dc4eee183ca9f4b364d7d4cafa1f8d09e25976e092e03b11d7d929c",
+    "type": "participante",
+    "id_short": "64ec3945"
+  },
+  {
+    "id": "ceba61d4aeebf57af938ae7fbfa773b166a30eecafee7da3cbc5f5915f5735f9",
+    "type": "participante",
+    "id_short": "ceba61d4"
+  },
+  {
+    "id": "d45dcd9b838d25e63f2eecd7b4add8c484aaa94bf9c68a93d130007dbb799b6a",
+    "type": "participante",
+    "id_short": "d45dcd9b"
+  },
+  {
+    "id": "c8a68848a8fa5a347105c374a3e2c154f396e6a3b905cc6613848c3527c79498",
+    "type": "participante",
+    "id_short": "c8a68848"
+  },
+  {
+    "id": "7cbae79eece2e613ec8f8f206a237a746fcbc4d40a3798d686d3f3a4a0e7fcd9",
+    "type": "participante",
+    "id_short": "7cbae79e"
+  },
+  {
+    "id": "93a71d7fec6abaee3614a4bf4c3a68f8a220a7f464aa32a249ad5e5d5f0d60c3",
+    "type": "participante",
+    "id_short": "93a71d7f"
+  },
+  {
+    "id": "a569715d8a0c922f6203130b0d41655bde241daaf89713da8cd22817dde78acb",
+    "type": "participante",
+    "id_short": "a569715d"
+  },
+  {
+    "id": "8b238cd0f87d70838ef73f461bf39a85c355bc5c3198a8d905f740cbdfbfcf31",
+    "type": "participante",
+    "id_short": "8b238cd0"
+  },
+  {
+    "id": "6e798e493edf09017f0f73f10fa4ed8aee3d4ea8d5cf4fa234c9f3adc15ff35a",
+    "type": "participante",
+    "id_short": "6e798e49"
+  },
+  {
+    "id": "8a12ef307d673ffa6dad3155648bf3ccfad7ce59de7a012dc5843cfa6986c7b1",
+    "type": "participante",
+    "id_short": "8a12ef30"
+  },
+  {
+    "id": "55a47c2103810b2f6e5b3131704064f681bc82cd6bce4d425479a985e2f7ad96",
+    "type": "participante",
+    "id_short": "55a47c21"
+  },
+  {
+    "id": "d003ba482effaa9ac3ea302739a135f5b436a076f7ed9a1f10a5189d19faa981",
+    "type": "participante",
+    "id_short": "d003ba48"
+  },
+  {
+    "id": "a4a70b41db2565a1c609b11d4c06aaa81a83e90f5fd632c6bfc254671401d7d3",
+    "type": "participante",
+    "id_short": "a4a70b41"
+  },
+  {
+    "id": "77f3ca9520c2fde0a7088054c595e5160138e745bf519aa89e6f935d54c0ce67",
+    "type": "participante",
+    "id_short": "77f3ca95"
+  },
+  {
+    "id": "13969d3439a8b93044b48df2f0f1cd6e33532146c7626b33edd2f714bf32fd76",
+    "type": "participante",
+    "id_short": "13969d34"
+  },
+  {
+    "id": "12823d0569f3896a64cdb07f5efae31f21ad0e7497c3ba0c8893cae386149d79",
+    "type": "participante",
+    "id_short": "12823d05"
+  },
+  {
+    "id": "caab29fc6d32d0f8a086b7ced9ce13684f817749f8d85b52bd196e7963994da7",
+    "type": "participante",
+    "id_short": "caab29fc"
+  },
+  {
+    "id": "787699684d9a11a8377b51e5ac9cf6d1932bdb9f2b147bf9d8ccbcdb710a5fd8",
+    "type": "participante",
+    "id_short": "78769968"
+  },
+  {
+    "id": "a96ce98c60dca46cd8eeeb93e48d763d79755ea7a0aa7679ff89edbafae19c93",
+    "type": "participante",
+    "id_short": "a96ce98c"
+  },
+  {
+    "id": "a3b97b503963fe88f4cd23ca88341906fd42389dabe896157a9387cfe2136d21",
+    "type": "participante",
+    "id_short": "a3b97b50"
+  },
+  {
+    "id": "04024fbc480040b7d42ea78e4728c44d616d0fb057f6743d3c7392f964c985cc",
+    "type": "participante",
+    "id_short": "04024fbc"
+  },
+  {
+    "id": "208716413e5dbc36c8ebe30b3051fc1131749aee78e19e87130ced46c6973e3d",
+    "type": "participante",
+    "id_short": "20871641"
+  },
+  {
+    "id": "cb22e88f0509f6c983d16d0d7748801faacfb7495569a72f1b6a765efc9fef2e",
+    "type": "participante",
+    "id_short": "cb22e88f"
+  },
+  {
+    "id": "d8aaa685f2155c9bd2f1b686a7e4fefdcd6225312f64c629bed90eabb361b448",
+    "type": "participante",
+    "id_short": "d8aaa685"
+  },
+  {
+    "id": "6a4105246d2ffc9ababa46f3b5c0aa817e6e4663c045ab45e1386f2f0e944595",
+    "type": "participante",
+    "id_short": "6a410524"
+  },
+  {
+    "id": "17e8043c87e5a6ab64610f1178d69f0b2048bc3f764a6c2b990497836da69b55",
+    "type": "participante",
+    "id_short": "17e8043c"
+  },
+  {
+    "id": "9e675f4e92b92c42264b47c708aad20e48da875977ede7ea1cb80624f99fa075",
+    "type": "participante",
+    "id_short": "9e675f4e"
+  },
+  {
+    "id": "6554a88e2f1283de374833925fc2fb1ec6cb99ff9c35a05a73a5f17ec13fa21d",
+    "type": "participante",
+    "id_short": "6554a88e"
+  },
+  {
+    "id": "8c775bc779ab8b010604f8d0ed78a60a6364d4d30cda02d5e05be40cbf98de72",
+    "type": "participante",
+    "id_short": "8c775bc7"
+  },
+  {
+    "id": "a3803b13c7be4d2742b935a40b2783c569c173c73a898726c3f46bedcb7ef371",
+    "type": "participante",
+    "id_short": "a3803b13"
+  },
+  {
+    "id": "566dd73dba535c1f1ee02ca22f227b7ff7c5e2f27949c1e9a33b745033067210",
+    "type": "participante",
+    "id_short": "566dd73d"
+  },
+  {
+    "id": "e7f9f59c5c2dc65ebca20868dd0a7bb727ce5678492031d0e2b663898abf099e",
+    "type": "participante",
+    "id_short": "e7f9f59c"
+  },
+  {
+    "id": "ad9ca123b42c0715bcca03907ee1482c79773fed23abf5a6f0c68d7b1aacb87b",
+    "type": "participante",
+    "id_short": "ad9ca123"
+  },
+  {
+    "id": "ff9522d8471e8d9d4fb3bb44e1ee991267ef5a17b0f1058aa5823b5927b52450",
+    "type": "participante",
+    "id_short": "ff9522d8"
+  },
+  {
+    "id": "ad83e967bf654aaabb0c6066632eff450a74010b2f289f9e8b8ba9e093624082",
+    "type": "participante",
+    "id_short": "ad83e967"
+  },
+  {
+    "id": "53402b1ac219dc92c1da77d4bbe8d0a07af6ee1fe99faac195ae03d1d4b49db0",
+    "type": "participante",
+    "id_short": "53402b1a"
+  },
+  {
+    "id": "93e82e912c91c0ec3f72f99a1a95d83ebb2b348e0d6cb0c88f62f27415c67947",
+    "type": "participante",
+    "id_short": "93e82e91"
+  },
+  {
+    "id": "68de36ab30f6ca2290cedc13b0ab311da4b503ac118452fe5fb5658ee22ec432",
+    "type": "participante",
+    "id_short": "68de36ab"
+  },
+  {
+    "id": "7615115206fc3c5051c18d522350d3acdae63b62a3702e30e04276560c38a959",
+    "type": "participante",
+    "id_short": "76151152"
+  },
+  {
+    "id": "c9a17f2d8b44652ad241e861df827ff05708c49cb2aa6b08f83a9639b57b18f6",
+    "type": "participante",
+    "id_short": "c9a17f2d"
+  },
+  {
+    "id": "85e33a4adfb287574322edd855aa03ad9bab57e7b4105481870d1be7f2d9dedf",
+    "type": "participante",
+    "id_short": "85e33a4a"
+  },
+  {
+    "id": "a07c96ca93d8b2823eb6c6337cee955d4bcba6cbb2fdac9b55d41c561b13d380",
+    "type": "participante",
+    "id_short": "a07c96ca"
+  },
+  {
+    "id": "aa391d69577829daec2d9070fc670eae75a23f8673a81e4fdfc5eeca223b90d8",
+    "type": "participante",
+    "id_short": "aa391d69"
+  },
+  {
+    "id": "8358984d93b7c7f8fafcb6465abc8cbb5a5b4c66cec0974f3ff433463bd002a1",
+    "type": "participante",
+    "id_short": "8358984d"
+  },
+  {
+    "id": "d8efbf2de0e7f218a8009d6de6f214f7fe03af94aee9712ea3de564c281f061b",
+    "type": "participante",
+    "id_short": "d8efbf2d"
+  },
+  {
+    "id": "6c331c0f7b6f8dac13025be6c658199665c2ffdf74e899c451720c50215b8aca",
+    "type": "participante",
+    "id_short": "6c331c0f"
+  },
+  {
+    "id": "84edce0a5e4bc2c397fd44e84ed5945e590918fe9fc8a31724d24b515bc6d877",
+    "type": "participante",
+    "id_short": "84edce0a"
+  },
+  {
+    "id": "523d2a1073bd8eef0421a53d968704abce4c7764d8f9f4df0d157aad293543d2",
+    "type": "participante",
+    "id_short": "523d2a10"
+  },
+  {
+    "id": "7ac1a96d6c838e8f550423570c6b1d6a8ff7630bdbf3c94b8dfc1ce6242e8c65",
+    "type": "participante",
+    "id_short": "7ac1a96d"
+  },
+  {
+    "id": "e029b58f6149f01abf095e9defb96e90de115fbc60afcf7d0576e4bf2e5c08db",
+    "type": "participante",
+    "id_short": "e029b58f"
+  },
+  {
+    "id": "048b7c2f13066a3bf4978e9ae4480c7509273ae7f132b542fdb721b136c4fde7",
+    "type": "participante",
+    "id_short": "048b7c2f"
+  },
+  {
+    "id": "b18496b31885b5d1df56bff19c5566f4252267612074a5be1bfa98e023b37a1b",
+    "type": "participante",
+    "id_short": "b18496b3"
+  },
+  {
+    "id": "31bfb26ff62a6be0c4effdcd6adef31c6b22536272e3a9d25c7691100aee8ec7",
+    "type": "participante",
+    "id_short": "31bfb26f"
+  },
+  {
+    "id": "ae9a58f30e65e90be5c6bbaf7644dbe486c9eec96cc250cf4b1a6db50c1ccd96",
+    "type": "participante",
+    "id_short": "ae9a58f3"
+  },
+  {
+    "id": "2748e203804d5d0b262243bcdc0e42672229ea5347f216b294db180eecd731c5",
+    "type": "participante",
+    "id_short": "2748e203"
+  },
+  {
+    "id": "c6ef65193bced1806d39bd0adfa9fe66c53153fca676dd86d79f118c7d1793dd",
+    "type": "participante",
+    "id_short": "c6ef6519"
+  },
+  {
+    "id": "b9de285ea5e0d2d4579996db0a7efea18d13b67aa7ee83e4af08b36fe17d542f",
+    "type": "participante",
+    "id_short": "b9de285e"
+  },
+  {
+    "id": "42bc00af6f77cb40eb5e759bb25d2ecdb0e1fd406580b41a2e27ddf379d7738e",
+    "type": "participante",
+    "id_short": "42bc00af"
+  },
+  {
+    "id": "47d4f425506757ab6c48fc2ca33b3eb99a5c6b88e4bbeb63e4236f966b8a0add",
+    "type": "participante",
+    "id_short": "47d4f425"
+  },
+  {
+    "id": "3dafc6641b9271bc14f9094509c8426bd55b67deca586c101dbd8ed4613ed879",
+    "type": "participante",
+    "id_short": "3dafc664"
+  },
+  {
+    "id": "faeef43bd6e9106bcca09add90bfd8e7e0e2963d572e04b421e379d406ca2520",
+    "type": "participante",
+    "id_short": "faeef43b"
+  },
+  {
+    "id": "1f3e33b05bc5e4128f896749de9bc4919b8dd0784e84962aadb7111985574b71",
+    "type": "participante",
+    "id_short": "1f3e33b0"
+  },
+  {
+    "id": "57a631639980fc8b8d99ac40e09f40ede7b4c05d8cb1637d7434ea1d0ae945ff",
+    "type": "participante",
+    "id_short": "57a63163"
+  },
+  {
+    "id": "2293fb780738ea916b611e77ed75adddf31e5e5071f2d52d6de0e08b7a3c5740",
+    "type": "participante",
+    "id_short": "2293fb78"
+  },
+  {
+    "id": "3be9eff4c187ebe0c8e172b9cab765fce2c7eaad2d055c885fcb16b105ff13a2",
+    "type": "participante",
+    "id_short": "3be9eff4"
+  },
+  {
+    "id": "529fcab851672dc908ea554b829536ec0f5a470c965328deb1c13d0318201cfc",
+    "type": "participante",
+    "id_short": "529fcab8"
+  },
+  {
+    "id": "89eec793ded586ed4458efdd06044403c36d3fec65a61f7efd0afa7edeb29591",
+    "type": "participante",
+    "id_short": "89eec793"
+  },
+  {
+    "id": "db6c467263a78b08e446fd06abba8447769f0a2311f750a08b59128fb851389b",
+    "type": "participante",
+    "id_short": "db6c4672"
+  },
+  {
+    "id": "ee9c215f1bf148b4d2d1916181577b2c06c0b36cb194a7c4ca45d9d841001454",
+    "type": "participante",
+    "id_short": "ee9c215f"
+  },
+  {
+    "id": "c1cfa85a86551cf6ea0a2477a59afaea3c25efe52739f7bf8e8de3278009fe1f",
+    "type": "participante",
+    "id_short": "c1cfa85a"
+  },
+  {
+    "id": "f73d1989d3f308810745c88c33f085357edf9f83b27c29cf079789b6b42f83ea",
+    "type": "participante",
+    "id_short": "f73d1989"
+  },
+  {
+    "id": "b521863c06611bea8a90960b05498a2cb0c22aa28d945433a90ae5ba19449499",
+    "type": "participante",
+    "id_short": "b521863c"
+  },
+  {
+    "id": "024afcb7601e3c3de5fba1ed7fe7607335bd9672ba88d7a310e6a4ba35c2f19e",
+    "type": "participante",
+    "id_short": "024afcb7"
+  },
+  {
+    "id": "c2be7becf0404461438aeb727af5f5bfdc7f80fde045cb73345c497622d6fdc9",
+    "type": "participante",
+    "id_short": "c2be7bec"
+  },
+  {
+    "id": "49666650a8f6e3c8b2656fe210c28188567e9cf0a62d1c3a580afb7baa292ffe",
+    "type": "participante",
+    "id_short": "49666650"
+  },
+  {
+    "id": "d1af775dbe871da612bd36a7b23923d2a686db6720e0b5e6fdfa80998d53edc1",
+    "type": "participante",
+    "id_short": "d1af775d"
+  },
+  {
+    "id": "8c7142cc6569c50d8609394bb653e1bbd2c4bbbce8423d41ec3039053a75e21a",
+    "type": "participante",
+    "id_short": "8c7142cc"
+  },
+  {
+    "id": "b07e7c12dcfb82dc2d3b9c2840e631ba6fa2e5c79765d80409bb15a590b7a6d1",
+    "type": "participante",
+    "id_short": "b07e7c12"
+  },
+  {
+    "id": "048002f7e972893fe4e127060a2a7352a150dfcba838f3211f73bb86a12668c5",
+    "type": "participante",
+    "id_short": "048002f7"
+  },
+  {
+    "id": "4358aa4f8926ed5d29d35d8648f0e254aa08ef2b9a0fca40f9cea69d3c0a15a4",
+    "type": "participante",
+    "id_short": "4358aa4f"
+  },
+  {
+    "id": "db28da20cdd081b9640bdf1033a728d1a65adede40ff0bad379c35a9e4bd58b4",
+    "type": "participante",
+    "id_short": "db28da20"
+  },
+  {
+    "id": "3c922cbc7351fa9ef6214349cda06df69137eb23b6c57d8eae5ea708a9dabd19",
+    "type": "participante",
+    "id_short": "3c922cbc"
+  },
+  {
+    "id": "773d525133207221395b198b53d61e633eb719284edc13ebc7b7fa972cf1cd40",
+    "type": "participante",
+    "id_short": "773d5251"
+  },
+  {
+    "id": "c84f2b97e9ff482bc9357f4dc651cf985c17f82bc6e66f4dc46f723db041e890",
+    "type": "participante",
+    "id_short": "c84f2b97"
+  },
+  {
+    "id": "1980b876853591e01bbb569497f84eb10fc6b7819373a717ffc2e127e1b218d4",
+    "type": "participante",
+    "id_short": "1980b876"
+  },
+  {
+    "id": "b6f8785b8dc7eaff318d49723dd72f18e0186d5660896716bb0e81965e9cefa9",
+    "type": "participante",
+    "id_short": "b6f8785b"
+  },
+  {
+    "id": "62ea82a6e9ee8e60cda3c068eb7a73ad649d6ac2b979b8f2ec6820b6f3fefa60",
+    "type": "participante",
+    "id_short": "62ea82a6"
+  },
+  {
+    "id": "7875517234616869babe17b7060720ce2f749e88eef26730c6fa53e95ac7421d",
+    "type": "participante",
+    "id_short": "78755172"
+  },
+  {
+    "id": "1242f4dce1175c077efb2d77e7d6a3169a9b508b416ace3bbc908fa5a26503cb",
+    "type": "participante",
+    "id_short": "1242f4dc"
+  },
+  {
+    "id": "2aa6b175a72ed4611c68449c7ebcc4fb60bcee8d8c1373992e9515b6a6bd1a8b",
+    "type": "participante",
+    "id_short": "2aa6b175"
+  },
+  {
+    "id": "561d8ac76afff06e990863d7d340e263b916125a8eab8ff3f5b91b2040d58396",
+    "type": "participante",
+    "id_short": "561d8ac7"
+  },
+  {
+    "id": "bd0ffbffdf74717b6863f039c06e7d10f59090cf4fb53621b4df03c997203e6a",
+    "type": "participante",
+    "id_short": "bd0ffbff"
+  },
+  {
+    "id": "5ec61975a599f3bad14923fa5dbd0edd0dfe68ec6094f1c10791e0a82f295d8f",
+    "type": "participante",
+    "id_short": "5ec61975"
+  },
+  {
+    "id": "12a8b399937789637d3cbe0a780292446b5680299d1efbf6c6d73f7a6d06a71e",
+    "type": "participante",
+    "id_short": "12a8b399"
+  },
+  {
+    "id": "8f1572891c64728d175ce0aed106bb11cbcbad2ffe81fc32634d0b58c1018b0c",
+    "type": "participante",
+    "id_short": "8f157289"
+  },
+  {
+    "id": "a07c7cca50617a022b98bc1f503dec9c44546f47c20aababaf693de26f672213",
+    "type": "participante",
+    "id_short": "a07c7cca"
+  },
+  {
+    "id": "5b2cf4495e2f330c394762b0a50ab0da1074194d53dd7b5e0be4d6bf31f27095",
+    "type": "participante",
+    "id_short": "5b2cf449"
+  },
+  {
+    "id": "430df7bba8bcaebccd9c76555f93ee76ff4b4c58ee0ffba5969672f6bbba8a4c",
+    "type": "participante",
+    "id_short": "430df7bb"
+  },
+  {
+    "id": "92b08fc3fcffdcafec81f51f8606e24c13560c5ee604b804832002991d71400f",
+    "type": "participante",
+    "id_short": "92b08fc3"
+  },
+  {
+    "id": "391c081e0a0c7250fd983f8e19b8293df5b5f033fdca199200e2c3756a03db23",
+    "type": "participante",
+    "id_short": "391c081e"
+  },
+  {
+    "id": "cb7f677b75043ac061285e91b13e347a92cc050375e44b95acc10acf46010271",
+    "type": "participante",
+    "id_short": "cb7f677b"
+  },
+  {
+    "id": "dff9fb410c74e1d186f347f430d6d711a8a717f534e62c14d1f2373a4efaa21e",
+    "type": "participante",
+    "id_short": "dff9fb41"
+  },
+  {
+    "id": "c03807ecc1ec6bedfcb5b2fdd291bbbae01272efba9e727e43517ca9d3c889cb",
+    "type": "participante",
+    "id_short": "c03807ec"
+  },
+  {
+    "id": "3c750ebc93bdacf34ce85d31bb249b6455b1260cbf2454163dd58fc6e7aaa611",
+    "type": "participante",
+    "id_short": "3c750ebc"
+  },
+  {
+    "id": "1e21dbd9d8530c0e3e624e8fe76d2933f2df1ad5c31395ecdaccfe78fa3ba683",
+    "type": "participante",
+    "id_short": "1e21dbd9"
+  },
+  {
+    "id": "759ba162696078a28ec2f48064f466c1ee4513fb2122b2b75520bb8de44d75a9",
+    "type": "participante",
+    "id_short": "759ba162"
+  },
+  {
+    "id": "a79baf0a74adc682e752cfd94507cba06b36dfd96a29d0589dfb65d2f5a19516",
+    "type": "participante",
+    "id_short": "a79baf0a"
+  },
+  {
+    "id": "8944973d36dea021fb11fbe18e7c741721478d128839f62a5a50acd0cbb52e0e",
+    "type": "participante",
+    "id_short": "8944973d"
+  },
+  {
+    "id": "d4d7bceda3777b17a0be360d44e6dcef1f7c6aee42cb8dba861c1c538d3afb4e",
+    "type": "participante",
+    "id_short": "d4d7bced"
+  },
+  {
+    "id": "ccc814dbfc9efcf8f91a0fc317fed69152d188706757423c4d9193ab970b7c31",
+    "type": "participante",
+    "id_short": "ccc814db"
+  },
+  {
+    "id": "902121a871552a032370e022438813bdbe86b8c1ff0d1204be71254ad91df5da",
+    "type": "participante",
+    "id_short": "902121a8"
+  },
+  {
+    "id": "f096d071d5886ef6711ccdc8cf59a78c3d434e78e973f40170514d876995e82b",
+    "type": "participante",
+    "id_short": "f096d071"
+  },
+  {
+    "id": "7d922665a0ef6f9ef3169ae6880867e10c6717aedbc4b1641d92d1a202500bdf",
+    "type": "participante",
+    "id_short": "7d922665"
+  },
+  {
+    "id": "00f7821a190002486528d785700cb46018d3ac60b877a2027e80df26184a4c5f",
+    "type": "participante",
+    "id_short": "00f7821a"
+  },
+  {
+    "id": "73c67e9e90a47ce9df3987d979d98b13472684989d64cbf45e8626d055f3eea9",
+    "type": "participante",
+    "id_short": "73c67e9e"
+  },
+  {
+    "id": "8af83d04b4cabdb95ae2ffd32a6fb38c22ff2ccfab0a83d272b7af55bda378b6",
+    "type": "participante",
+    "id_short": "8af83d04"
+  },
+  {
+    "id": "4abc4a3e211ddec22ade6e41419151988d87256db670fda501b2e940d00b94a7",
+    "type": "participante",
+    "id_short": "4abc4a3e"
+  },
+  {
+    "id": "facd90968a3d8d61ed391b216846b6b7923d013579c10143f8a373c0c04e6220",
+    "type": "participante",
+    "id_short": "facd9096"
+  },
+  {
+    "id": "9a51ef1eb721e93d88663484569b5e2f687ac94aa745df32596b6c731ba7e988",
+    "type": "participante",
+    "id_short": "9a51ef1e"
+  },
+  {
+    "id": "6aa2b5d4effaccb1c4924b2691117bc998b82de16984a087a3731d9d12bd0695",
+    "type": "participante",
+    "id_short": "6aa2b5d4"
+  },
+  {
+    "id": "350a71c68c3d523b46d05c6cd4a8f4ee95600f3ae0901c1007e4837ae12d3595",
+    "type": "participante",
+    "id_short": "350a71c6"
+  },
+  {
+    "id": "37902b3610b9fe7c670439e2118de08083fdbbcc7d72a5c753acdaa01c1ca671",
+    "type": "participante",
+    "id_short": "37902b36"
+  },
+  {
+    "id": "b59ad5ac9124747c64bb688dcf89ff906c57b670f78df986111d94f79c3ce45e",
+    "type": "participante",
+    "id_short": "b59ad5ac"
+  },
+  {
+    "id": "1ba39a9297fcb1219b4bda28b5e0dbbe71c34b88187278b8fbd10a6d08f5959c",
+    "type": "participante",
+    "id_short": "1ba39a92"
+  },
+  {
+    "id": "bc8bf60e767ec93f51273e3f7ba54990d24dde5fa1c42c71b82ae74b9ea9c460",
+    "type": "participante",
+    "id_short": "bc8bf60e"
+  },
+  {
+    "id": "fde94d402ce193da93298b2c2ac6e043706280877cdcb1dbe8e702f17f118f48",
+    "type": "participante",
+    "id_short": "fde94d40"
+  },
+  {
+    "id": "549bffdb557282e2dcce44a3ed941e47746635763ca7139aeb1d72a0ee123f91",
+    "type": "participante",
+    "id_short": "549bffdb"
+  },
+  {
+    "id": "c69b3c88be11df8c5766a0a872e1ff18be951d6f29a7fcef39f4a5b171891243",
+    "type": "participante",
+    "id_short": "c69b3c88"
+  },
+  {
+    "id": "d3e5619a26ce8b4bf45c0dbce9a1d83d6028fb195ffca2ad32fdfcad3be4ee50",
+    "type": "participante",
+    "id_short": "d3e5619a"
+  },
+  {
+    "id": "76f82a3681f96c0f883389354ba155cb9b6b4fffb74358a4c419ed0cc3a576da",
+    "type": "participante",
+    "id_short": "76f82a36"
+  },
+  {
+    "id": "de3401ee69b6b8c17340a9dcea3a48eaa9fba81350f8c1553efc28743d489f74",
+    "type": "participante",
+    "id_short": "de3401ee"
+  },
+  {
+    "id": "e4e104068007f73bf76bf68803b05a03479b0c1ad74ed6cf54d0a987adbdf493",
+    "type": "participante",
+    "id_short": "e4e10406"
+  },
+  {
+    "id": "57fee62be72e71d99700416460df26dfd3a4f78775d9105efbc245680dd8bb7a",
+    "course": "Evento Principal",
+    "type": "participante",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "57fee62b"
+  },
+  {
+    "id": "972227d97ea2ea38edb0d6da035ce82380283a4ef150477b63c70eb0a975be26",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "972227d9"
+  },
+  {
+    "id": "88c43175714e9fc25ad022606e29acf53fa297df153442176d79987d01e2effd",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "88c43175"
+  },
+  {
+    "id": "647079019376868a250700ca9186fa819301ad2e553f09e7734b4acbd6b58f2f",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "64707901"
+  },
+  {
+    "id": "aa5b6ade8dbe285326f0f43d77043e7e4e5de8a0f98e68bb4397b866d8e62aef",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "aa5b6ade"
+  },
+  {
+    "id": "fc5ad17e6418693c7d20dc146c21f81f43b4b1a4d27e23530abf18509585bb28",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "fc5ad17e"
+  },
+  {
+    "id": "3155d5d0ae4d47207ebe0d9c0f6a44a5a4f7fd58e4c40ffe96abc59929384420",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "3155d5d0"
+  },
+  {
+    "id": "cbf646e86df496ff2033536f99c395da2c155c548818c010a6305eff4b389279",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "cbf646e8"
+  },
+  {
+    "id": "40c0d2e4224a2dbb740c20057926a69d4f732a7c2bcdd1285804ca8e36cafd13",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "40c0d2e4"
+  },
+  {
+    "id": "c582046e0acdad311d9e637550bc735aa96f8bbc3f6861b5939dd5aea8ceda17",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "c582046e"
+  },
+  {
+    "id": "07f1cbb8dd03e089cbf864a0e987e538c5ebb77e7679ab01eb100c9515d0690c",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "07f1cbb8"
+  },
+  {
+    "id": "b07ec90baccd37e0e86cb1b0ee530acd6afb0fdda60cd996130a41d01a8fea26",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "b07ec90b"
+  },
+  {
+    "id": "f035fb58941349ab59c9308b8b88dced8a8abe1acf24744c6398f4e9239afc76",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "f035fb58"
+  },
+  {
+    "id": "9ede45b4e3284d0f205a20aba249e85a8ecc0ded69c95c62537b8de995f046b3",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "9ede45b4"
+  },
+  {
+    "id": "b56a167698a56841ea3aa1ea0b98cbf98a6082860f4a0e22dd6b0d3feb919576",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "b56a1676"
+  },
+  {
+    "id": "cc4476c094d2f41eb18c8ed98fb3200843eaa687beeb81127c9a7d08a5479148",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "cc4476c0"
+  },
+  {
+    "id": "80b1b2d7f73f5dc4142d78c2b009b14cff3c4cd91cb23b2e8670020e8c7d10bd",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "80b1b2d7"
+  },
+  {
+    "id": "bd68995bb5a8461c5eeba2d64305408eaf4dd3faf41020e93445141e81415f5a",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "bd68995b"
+  },
+  {
+    "id": "0a4eebe2174899b64283908aafee4c49e217a5655a0fd12dfb015d9d4589f12e",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "0a4eebe2"
+  },
+  {
+    "id": "bec46c596e086a1c1cd68a470ba6b908b2da75ba46361ceffd9b89b5a82fd563",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "bec46c59"
+  },
+  {
+    "id": "2afadfac0d840f3ad98f5d1fa9b792db90f6f4fc9cee9f94d1b58dcbc83a4995",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "2afadfac"
+  },
+  {
+    "id": "19ce1d5219f1ef770717d3b74e947ef388731965513f64bbc86971954b98c49d",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "19ce1d52"
+  },
+  {
+    "id": "37d5f57c622247789b4c56c91412c64b7bacf29953f46f04c9be493f786bd205",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "37d5f57c"
+  },
+  {
+    "id": "d9d340b445c56a2f85672ebab256335ba33b54f07a4dcfbebf807f908389a469",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "d9d340b4"
+  },
+  {
+    "id": "9711d4c783f3d6ce5781e7eacb7759175fdfd2b1d9a1971b56801c2af0605db3",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "9711d4c7"
+  },
+  {
+    "id": "057f20ef958f2ea69949cd2f7c2eda79e4cd64718877199e7ff63b8aa46558b4",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "057f20ef"
+  },
+  {
+    "id": "7897257e3d5231d6f6b2c6d3acd0be3203e45b6d864a9eb9f5280c0767a77ee4",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "7897257e"
+  },
+  {
+    "id": "8911c90aca6c3ab205ae8430756ffb3d4b65b9a03cdca1e48aaf92d912325ef9",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "8911c90a"
+  },
+  {
+    "id": "f6af894564cc912e2b8b4d8e88f75f448d27373be71029f4b0f96f098996fbb1",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "f6af8945"
+  },
+  {
+    "id": "7c405b0bf646db76b3847cf35db853f252664393e0643db24ec6fc7d4a72a4da",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "7c405b0b"
+  },
+  {
+    "id": "f74665dd5a272b9387bf9927b9b01ac50152579fec1843f849cc28e1633de438",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "f74665dd"
+  },
+  {
+    "id": "3b1f3f0398993537ea9f2d596adc3a7ccf6613b1c98c71937f901ef883885823",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "3b1f3f03"
+  },
+  {
+    "id": "821899250c3a84afae7598194b571a289fb31ca85bd70d2a1698b5959790a551",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "82189925"
+  },
+  {
+    "id": "d14dfca2d96158b569e9124d4fe78ec695f572cc9becbb3df39a24122aa4eded",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "d14dfca2"
+  },
+  {
+    "id": "51882f8fab8fe9f6b52eb693a170257b452255b67c3d3cc23d950ebc3a22df75",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "51882f8f"
+  },
+  {
+    "id": "c8155561070fe092f1f4bcb090b62e873cbb33f4cd6e23ac5e263237cea5ec80",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "c8155561"
+  },
+  {
+    "id": "8ac50b3834a5732857005ffedbf5ce38f5852f7b4c9a944f2891b3d6e0d3fba8",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "8ac50b38"
+  },
+  {
+    "id": "4ef9ae4adf82aa29a817d2ed1bf87476474336b0ee5dd0279f35c76bfd92f297",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "4ef9ae4a"
+  },
+  {
+    "id": "59c17346c0eb5557c4cb8ecf2ba5759717646858da1bc0511707f9742c101c30",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "59c17346"
+  },
+  {
+    "id": "eb62fc348548eee412ed7644459698e55aa5c10285ffd7d7c7ae865ac576021f",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "eb62fc34"
+  },
+  {
+    "id": "9be501209a1af108d23c2c76e969a7fb7df8cad0f1a29ea62a74084c12a753be",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "9be50120"
+  },
+  {
+    "id": "67762f2c3846e818d683562e80fff124b76af96291e3121f0556f0d0f2dcd71e",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "67762f2c"
+  },
+  {
+    "id": "b82425feff16570d31531794d3db89e2b150363b5943f3ea414be03c29c923ed",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "b82425fe"
+  },
+  {
+    "id": "b9193bc893fe06d7fef78e8bcd66a2af5d8c5e09d0cc45bd5be4f0d5e9aaa815",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "b9193bc8"
+  },
+  {
+    "id": "2ab2efe3767cb51ef7fe66fe9955b6ba58949b0fd23077c100908bcb86b0f70e",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "2ab2efe3"
+  },
+  {
+    "id": "c3c24bb8828a7e7d1cf2f0237fce082b3744f73c08ff64d2e42aefc53a0b987f",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "c3c24bb8"
+  },
+  {
+    "id": "e63fd225082b7de20f3714239f6233b8a6855667ab8793e39a903820f1f5a938",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "e63fd225"
+  },
+  {
+    "id": "14e1774093be5ae67a868e2165345645d3076e3290f98104180f4e6bab1500ec",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "14e17740"
+  },
+  {
+    "id": "481a601710489049f66703cc3c594b1b8f135f340ddb023d31448a0a8c237535",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "481a6017"
+  },
+  {
+    "id": "b9546c3fb58e9857547f58b29b1098a48e960f3614aac22da0c5e1d8e5ccbedc",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "b9546c3f"
+  },
+  {
+    "id": "f3397d16d66a35f82c3f21411b0552a40e82c32c563bf2e2a2098aee4d995eb6",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "f3397d16"
+  },
+  {
+    "id": "c6c87d588b434f2f71e49ed88ad0e752ebbf4afb266113dc168c581e6e47e7e0",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "c6c87d58"
+  },
+  {
+    "id": "09546dc584750b00b7b5a152935030db37168b9af2ae4de4c2ed96fd4ee9fec4",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "09546dc5"
+  },
+  {
+    "id": "bfc3b81930904f5bb270fb1aafcae71f9aa90b2e1e579650dc6a3accee832128",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "bfc3b819"
+  },
+  {
+    "id": "bf72790f474413e8a264debb9dcde1b88a50ab53b10edc8d5c4481bdd4822c29",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "bf72790f"
+  },
+  {
+    "id": "4c7ea8ee0812da6a54e588dc4b636de25ad9a4bf4e66b788270a2a3e2d191753",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "4c7ea8ee"
+  },
+  {
+    "id": "f216616b210e49412f4e3758ea250b7d4b7a249f6be68943c96f7951dfca73ae",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "f216616b"
+  },
+  {
+    "id": "a13062ba85681e4e6bf83fd75d31c00911db2ead8b681d4b6074f9991a985bb9",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "a13062ba"
+  },
+  {
+    "id": "b72f24f5771302bd02d6d5d23412fd2b976572f6c1cb0bdd2fd9e955195bdef2",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "b72f24f5"
+  },
+  {
+    "id": "a9df5a85fb39384656f4a995fb010d3020dd858e05fdade2cc7cb5076d4f0e00",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "a9df5a85"
+  },
+  {
+    "id": "4f03f81d0075643279b009af950b228df0a9522a739e8f1b6bd992219b2aa976",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "4f03f81d"
+  },
+  {
+    "id": "6e9d383fa2a8d94b27128613e1cd9171a78d5035394b6b50604c6b6b7d501c4f",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "6e9d383f"
+  },
+  {
+    "id": "a726fe445c50f86b425d227fc9d57fc1964169f4b0c9921cc7d8b29c336df2f1",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "a726fe44"
+  },
+  {
+    "id": "4458bb7ca67437be3157f8553015f18a4a1589edde6801c9ddd8569e963ea3fe",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "4458bb7c"
+  },
+  {
+    "id": "1d10df6fca6e2d9413bad118188ccdcaa663f4a6a7a9a4cc1a177319391c329b",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "1d10df6f"
+  },
+  {
+    "id": "52e0a46b159720c9c3c43a6dbe5c81368840803290ca9d2e0f1ad55f49fbb7aa",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "52e0a46b"
+  },
+  {
+    "id": "d4730305adea1289c72aa617aaf17f62fafe6f1d2efc342f6f5e13ddf78d694d",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "d4730305"
+  },
+  {
+    "id": "4d8d8316b1781feab27bd1998ea27def66f1adbd27962ed6dbc1436a580472aa",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "4d8d8316"
+  },
+  {
+    "id": "10d37bf74405a86ffad084fe0426a66a65f00f715051bc4bd91635841eb4ece8",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "10d37bf7"
+  },
+  {
+    "id": "6c02d9546a021cc003aa2c17e72bbcce31ec9320511914b277c8b827946f4390",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "6c02d954"
+  },
+  {
+    "id": "8454b1fe16e56d866b53a2a97286ca03ad8d1b701c3b89d289006c193ef4c898",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "8454b1fe"
+  },
+  {
+    "id": "e01413c0e87a90889586f2a47ec855ff3a03d5088d839299288e924640f10435",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "e01413c0"
+  },
+  {
+    "id": "0af9297f9fc203f75b9655e9d94f596ed82f1b0464d75121f276bcc4bbe7f6f5",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "0af9297f"
+  },
+  {
+    "id": "53fcf7b6e540d5eb04f1a636280f18fa308209feefce39cf8fedb37e0250f6db",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "53fcf7b6"
+  },
+  {
+    "id": "d86418839ffb8a9a9b3afb2786e760ebd3b85f56bc3bb8cb1fb94164d09e876f",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "d8641883"
+  },
+  {
+    "id": "89a7829cd25a55d6fd3ae3d25bda1294fe1c998be7d63c9ddd6c5e243875c60a",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "89a7829c"
+  },
+  {
+    "id": "c05eb175f78f64ca494a8d021307de09da980bf821121da8410ea51f73d59e69",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "c05eb175"
+  },
+  {
+    "id": "0b8022cccca1a3524b1fbdbb7fc6ec43a077be1cd241f6cf13fd112b0e648874",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "0b8022cc"
+  },
+  {
+    "id": "3ffe1eb86b3d28d5f53a6da89ec3102b4755f167e6ea3389bd8c21442992d2d8",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "3ffe1eb8"
+  },
+  {
+    "id": "045c2d54d23ee748f11871821a782d3e4d33d0a5db5f601c264bbbc2b78fb6ca",
+    "course": "Patentes e transferência de Propriedade Intelectual",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "045c2d54"
+  },
+  {
+    "id": "67fe1201a786bbf2a1efaee3bf31c4fe0720416d8acbc2ca09062cf3e4037b0e",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "67fe1201"
+  },
+  {
+    "id": "16ffc8d3493e13de76a5bafcae668f2585094db93e6840f64b522d865d9a0204",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "16ffc8d3"
+  },
+  {
+    "id": "f2791a2a5ed0d48b54abf641c9409d842b61720789312410f3f4de6ba1026485",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "f2791a2a"
+  },
+  {
+    "id": "e634bab5aa0de664d7cdb828e8ca42dd66597660323a2a49a13d46395aa2d565",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "e634bab5"
+  },
+  {
+    "id": "3910ae77c5ca0159af16678b66419140d03b86b412c0f0f6de743e9ca840a9b9",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "3910ae77"
+  },
+  {
+    "id": "bbd6e9474397579b3ebcde859158936fd60b8a82f936b7f8af9bd7bf383e3106",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "bbd6e947"
+  },
+  {
+    "id": "19e9942d592d565348349ea0acf9f1f9705d01608a0fc06785210fdf9099933e",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "19e9942d"
+  },
+  {
+    "id": "7b3f42532cafce46c2776b99b30f654d14ea7f4493928f6da2747af7b9fddfb0",
+    "course": "Patentes e transferência de Propriedade Intelectual",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "7b3f4253"
+  },
+  {
+    "id": "9a81168e6590d755a6ebb9208f3d507357c1c93ff3d61d8f7292ca7b54129812",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "9a81168e"
+  },
+  {
+    "id": "9d5a45b1bc655ccb9dc7937fcb145b1c121dce9a4c05f9190f22bbce7737207f",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "9d5a45b1"
+  },
+  {
+    "id": "51a1c7774b0bc5942f15a00aa4e73f43cc3052d5cb45c9c7814953025cf1ec26",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "51a1c777"
+  },
+  {
+    "id": "8159be6d6ba970c2512286f4ff35304363df4205223a32e6734a007a3cc29aa5",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "8159be6d"
+  },
+  {
+    "id": "d941a8688ac07f3aef6b02e0e2f559ee35e59811be8d65ee208ebef6b9a8a193",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "d941a868"
+  },
+  {
+    "id": "2d93a9155b33a2b83e48d2f30873743376e396323efc6126729a6f8847305ae4",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "2d93a915"
+  },
+  {
+    "id": "8666fd93bc97dd6d0728ed8ce353544df53d26cfc9880bb0d4f43cbb5ceff3ad",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "8666fd93"
+  },
+  {
+    "id": "7cddc080d45c4d0c27d5fcecb07b856d5972ea09b6f08dac32f5541cf50a8bf2",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "7cddc080"
+  },
+  {
+    "id": "e75dc317108a65dc79b71fb1ec5c0c3946e9d69e3dfd984247669069c6771b50",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "e75dc317"
+  },
+  {
+    "id": "f580ffc064b4e7693703e46e33a7fe1f01f57bd010b5a41b5a5a8871c1df3c3a",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "f580ffc0"
+  },
+  {
+    "id": "d6531cd023f7709497de97fa438fcbb235ee59b5e99ab4e4a5d2c23da9392878",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "d6531cd0"
+  },
+  {
+    "id": "7dda2ef84175b72ac4473f268e0312911b69231c41673989ab94166fa9dbf4b9",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "7dda2ef8"
+  },
+  {
+    "id": "0518348d5e075027fce0f9e7e5159d30aa75898107be99980db7d0002481dfe6",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "0518348d"
+  },
+  {
+    "id": "e18b030722146a18206a8d194648cdcc5264168a91a518ab0811e577b2dd0687",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "e18b0307"
+  },
+  {
+    "id": "d73bfa32f3706ab5a8a46d2e1c209eca9732a8848137730b9a1cac3a06713675",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "d73bfa32"
+  },
+  {
+    "id": "770debd3d53fe2cbf05317db6b4826b1c8e1598bd5305ecdad5242f473f80418",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "770debd3"
+  },
+  {
+    "id": "548ac2026dd856af1aa4a5e6a49aa8b3f80407ce98a37f82d2423e584bc4c3f1",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "548ac202"
+  },
+  {
+    "id": "2bb571a13c23f54f6a1db11d7cb2e832fe1ae9c08e9df01d390c0f6bd65d68f2",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "2bb571a1"
+  },
+  {
+    "id": "6e215709d2469328dbceb0e6fb144c06193f90f3639e3524b35bb300bba39141",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "6e215709"
+  },
+  {
+    "id": "67c999218fd4c9b6c9fa87cdd44745dfe9fc7e24d407aed3a6b789bb1c4cb79d",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "67c99921"
+  },
+  {
+    "id": "541d78ff15e3192abb3838bfc5bf4310b6899438832fa0a6d2efc2b1c007d0e7",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "541d78ff"
+  },
+  {
+    "id": "c8fe582408da9b9b8926df24c13aa2647c5920b03d525a9501fac7460bcae3f7",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "c8fe5824"
+  },
+  {
+    "id": "5ecf4b43b387a36f88d45d1a9ab177feee055839dffb445a3074a44b42391095",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "5ecf4b43"
+  },
+  {
+    "id": "891615117caec003274e3ad28801d914fdfee6aa1085053671c23f652973afdc",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "89161511"
+  },
+  {
+    "id": "d4042730c0ec6858b52eaf8c144ca21d6763cfa1558297bcba30bd861938d03b",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "d4042730"
+  },
+  {
+    "id": "7d11e8e3ddd6ab39762e25c05e764ffeb50da59ca306ef1fc85598d3d96953f9",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "7d11e8e3"
+  },
+  {
+    "id": "3409d5e98bf76229e29ec419c3eb2a56a9e1904e66c35dbe93d5da81bd11e02b",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "3409d5e9"
+  },
+  {
+    "id": "e240ab83da9b96c59a706d10097d4a129433246f0ce56cad6aba1ce1db13be0f",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "e240ab83"
+  },
+  {
+    "id": "5a34b3e4e926056e1bde05bab80c5f4e43b9b0b98233508ea2f7352386600696",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "5a34b3e4"
+  },
+  {
+    "id": "24c0048217baa3de58a083b2b49c34cc759a2971bfd6bef5491abc90f6f9e630",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "24c00482"
+  },
+  {
+    "id": "75583a13e5c913187678ab8342cb6ef454a09d7d14d75a818903f4c65689a848",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "75583a13"
+  },
+  {
+    "id": "bb0502cfdac5b3a9608b37d483ee03c044eaef097e1c1b62a3e771dc6edca84a",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "bb0502cf"
+  },
+  {
+    "id": "600fadbe36d25b21c96fb3679a3e15b2f4c81fde90162eac70226dd7a42045d9",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "600fadbe"
+  },
+  {
+    "id": "225e337389522ee97ebc9381b8e772c591980bbca184dd26a7315ad055bd816c",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "225e3373"
+  },
+  {
+    "id": "5735bb1ea990ff1a61bb16bebde71a39b1ed31664dea6f471e6eb68f08583b58",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "5735bb1e"
+  },
+  {
+    "id": "6ed4f45c1849a172bea5fa4d32d8cb24ce6e3bbc2ab7328913f0c7b197d23f53",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "6ed4f45c"
+  },
+  {
+    "id": "f8411f6d5982faba37d344273c164a02417260a84772219e401aecfcc934525f",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "f8411f6d"
+  },
+  {
+    "id": "b2a691cb4bef756e8d238737b1dedecf57ba212ba9ac86129471f93054bcdf66",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "b2a691cb"
+  },
+  {
+    "id": "22adb97a1bbaecb96e3fcaddf1ca0382bdadc78486ba159a949bd503be5d02d5",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "22adb97a"
+  },
+  {
+    "id": "08992d4b19402886d4dd5165282f683b4b51e87cadf042a041310878edb23bd8",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "08992d4b"
+  },
+  {
+    "id": "274efe04e5b3a202d47c8c418288cf8b3182259c9608e99353fa2232a97feb42",
+    "course": "Patentes e transferência de Propriedade Intelectual",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "274efe04"
+  },
+  {
+    "id": "66732964ce533a3a7a7f227dfaddbd6916d4b78c35df92ce93b1700f7f9b60c0",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "66732964"
+  },
+  {
+    "id": "c55ddecf843f5f94aa828e204144ac36accb5fe8445c4591c5a7e77d54c2373c",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "c55ddecf"
+  },
+  {
+    "id": "d223ff8b9b9810a7092eac966911187c79b8d5dbdf85a6fa55f7332db092458a",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "d223ff8b"
+  },
+  {
+    "id": "baf1ac3421b1f4f5391aa88f27966e35434425c1e4c65701ee3991e510feb797",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "baf1ac34"
+  },
+  {
+    "id": "f585119e5601f792de4d4f8542bd2dbb6241a16bcbe175bd12e158e8a7c6cf13",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "f585119e"
+  },
+  {
+    "id": "8325088f6d631067e23913e33fca8da99472514773d43fb0c4533f2e63813f27",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "8325088f"
+  },
+  {
+    "id": "ac9524c2cb3622245ba4e014bfcc5c67548e23605310038e67a521839e41ea6c",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "ac9524c2"
+  },
+  {
+    "id": "e82e19417119cfbb1372eb4696aa2b2f808f69fae8662c1690ff0c4a288e5365",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "e82e1941"
+  },
+  {
+    "id": "5546be68042aa59a994df423cdd712c6243d8b6f3eb2246f88c619d8b2b00e5a",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "5546be68"
+  },
+  {
+    "id": "55cd65556a819647d6ee150e81129c7d2dbcae06211ccda7d25ed2b8610a7a19",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "55cd6555"
+  },
+  {
+    "id": "c5871c4dfabe735fd85a9813fc2d5909a6e2ca490360ca1ff1c18f3dc99ba259",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "c5871c4d"
+  },
+  {
+    "id": "16f93a183c677ed234422f085a99d59cff243f56857c16e6a4bb5fd06dcb09f5",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "16f93a18"
+  },
+  {
+    "id": "0155f000e7fc6d9969c1c53f0310e9ee51ba6e87f4552623a8528620d77472f7",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "0155f000"
+  },
+  {
+    "id": "b56c543e73d168867c9e975067e187cac23a1cb164f332a135e6eb1b1ddab9c3",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "b56c543e"
+  },
+  {
+    "id": "241bcaf7bf1e926bf7f6b19e6b30b9869c08a2fd40cc1d00ee0134ba2262d99a",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "241bcaf7"
+  },
+  {
+    "id": "e454ea9ee889c86f94df999790b4b082829286860bf6f227aaa92d3386f74813",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "e454ea9e"
+  },
+  {
+    "id": "a88a5606449083669563bd337f1072506d47c02d1ef4492cd40fdec45bad63ab",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "a88a5606"
+  },
+  {
+    "id": "ad7f8dbbc6c63add46ee1dd275207a6d1285d427f7d384672115049f6c605458",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "ad7f8dbb"
+  },
+  {
+    "id": "cad31bf858a43120feebd1233afb8d127ea65df783f7d8dde08febb3b6918291",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "cad31bf8"
+  },
+  {
+    "id": "843fa44ab0b009c27c785de8b016eaad56146348e2c1ca49c44075b0a508470b",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "843fa44a"
+  },
+  {
+    "id": "251644d174c975c7c83f2f92ac37d29db61445e1b513525ada2faa2850c431cb",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "251644d1"
+  },
+  {
+    "id": "60905604761d06571126e3af9f276a1a132fe324086c081f5de18de6a0926386",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "60905604"
+  },
+  {
+    "id": "2f126bfecdacf7e2c4b5615aa7b9c1569d27472df03f3e770545499dc9055206",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "2f126bfe"
+  },
+  {
+    "id": "d5265f4ac7c6f17895c46b90bb50f0b921700da2c58bf994aeba9c98484ed00e",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "d5265f4a"
+  },
+  {
+    "id": "74823456f93644a90972eb6b994d02e2ee3eba099a87051c71e088b02c9a630c",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "74823456"
+  },
+  {
+    "id": "f75b37377c6e8c2127786412bbb42f0b18c98a955cc5769bee9dcde714f53b27",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "f75b3737"
+  },
+  {
+    "id": "a34f13d7e8af568948a78441164bd59312c7fe359d8397634eba616c437e6a2f",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "a34f13d7"
+  },
+  {
+    "id": "957b26d7794af13d65edfe4581cc29a36f38d7cf21b131db62bb9071706ad872",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "957b26d7"
+  },
+  {
+    "id": "467dbf8609c85ccdc65f3dc41befe2a9d79258c7c62fca3b030f975d97e31acc",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "467dbf86"
+  },
+  {
+    "id": "8a54744a011e25da1cb0eaa667626d23939a23d4296ce6f848fc3f696d83a5f7",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "8a54744a"
+  },
+  {
+    "id": "8646920321e0a79d37e071303e5b2d48953953c0315d95a1988c5fa3e467fc99",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "86469203"
+  },
+  {
+    "id": "979322257402cbb78af69fd034182b3ba6f4c61676059c1a55d1596cddc0f55b",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "97932225"
+  },
+  {
+    "id": "6f3aa46421ee00b14a4905fd1e265b5e8eb88ee017a4c24790d4a1d923d052df",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "6f3aa464"
+  },
+  {
+    "id": "b56493ec9bd4b25c1b7c1750e331eba30d8d4a71c93b39be570301716c5e41d1",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "b56493ec"
+  },
+  {
+    "id": "0b08886df538d7c7ad94023ccef8da78dabf90033fc7223eb527b8a6b3d6b87c",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "0b08886d"
+  },
+  {
+    "id": "b83d40044f6fd3616c575dfe58eaa9da26792edc0f80cdf6bb3db2005513c0ea",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "b83d4004"
+  },
+  {
+    "id": "aa6dafa504c4b502f14291a3ed68cf3a4ca6930f03a6fa333e31b385d803bd05",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "aa6dafa5"
+  },
+  {
+    "id": "e00f5c4eba7f3a9a6d7c674707b264bfa976a1e22868944e310d05e99f505c0f",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "e00f5c4e"
+  },
+  {
+    "id": "8bbb04a5d5a26f65559015f79368b0b6882e79dd125b7f030a27273f09645174",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "8bbb04a5"
+  },
+  {
+    "id": "2cfe243f4eba6f32ee0c754220adb6f53a99a815433112b1fb247fc500595475",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "2cfe243f"
+  },
+  {
+    "id": "17457ceedec0d1c642bc6c5d90d3fcf39d61a8eed0f9a09a1c73f505d6068e11",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "17457cee"
+  },
+  {
+    "id": "3179862c2fd1ba7d5d7d13501754726ad90ba85d60d454582090aaf5981fc5ef",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "3179862c"
+  },
+  {
+    "id": "5b7abebe5759839e47dca7acec9a70ed082b1527ec474c365c73606cf71ac7a2",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "5b7abebe"
+  },
+  {
+    "id": "2caa36cdb992d5ff11344e7d136f68d8b367ed75c00095356c1f0bc5bb8addd5",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "2caa36cd"
+  },
+  {
+    "id": "e322340aa44bcc1da83043f7e96a112d5c940410ecd0c4610f3aa197748ec448",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "e322340a"
+  },
+  {
+    "id": "74e2477705d3f389b805f3a86e6e8207f74e30cf3d128ec4a5bd319076535f93",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "74e24777"
+  },
+  {
+    "id": "6dba407eb88bcc26997170bbaf2dd78eaae131c1268f3f2a53a6e990c3c6bdd7",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "6dba407e"
+  },
+  {
+    "id": "1d949a076d8584e711793cda20f16a09efb39a4479b447edeac7fdabd5112eaa",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "1d949a07"
+  },
+  {
+    "id": "3ec33af76ccf9094e2751cb10dc523f687b17ff36658828b45532bc80795f443",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "3ec33af7"
+  },
+  {
+    "id": "03dc7dd4eccb0b8cf918f5ec2fc2fb814758130fee6defd6ae88a07ebc99fc1e",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "03dc7dd4"
+  },
+  {
+    "id": "0594fda31b33b4e2e74d3a0b26131b199adb82b0a7f3c2d3973057c2c01e2e36",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "0594fda3"
+  },
+  {
+    "id": "d65068809645721cb1a9630e4de5e8d34b2161ec816c686ba36e44dead04c7a3",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "d6506880"
+  },
+  {
+    "id": "cc3080f4b091dc965d98dd26d17674c9a7394f91c6a401c0cf1131168ee4acda",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "cc3080f4"
+  },
+  {
+    "id": "e86e0c39aaf15a08e2ebd95e579955b2c93870a57453c6fe84549f5a928ec2f4",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "e86e0c39"
+  },
+  {
+    "id": "17f7879e1503ae575c9a1a3bc081723b21643108b754e14ba2db5fcb19d349fb",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "17f7879e"
+  },
+  {
+    "id": "2fa6d7f8b752d0508636ef673672e3509506ac5c2bb1ab15b8f92eca40a332e9",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "2fa6d7f8"
+  },
+  {
+    "id": "97629e02ce5f562574f7ca0d6587eea0dd90f053a06d3b2628b3c526d0231f6b",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "97629e02"
+  },
+  {
+    "id": "4edefe8dcd4019ab422b6047eca37bc2bf58b206a411ea882373abf69a9926bb",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "4edefe8d"
+  },
+  {
+    "id": "fd92eebe8dc9ce12350a26115a1eff1cd42e296b839c02d1c1f76a115936065b",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "fd92eebe"
+  },
+  {
+    "id": "a1ad9743a78d484e9bc13f06201e2e7d33566b8a696290257cc34765296a5fc0",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "a1ad9743"
+  },
+  {
+    "id": "b624de0096d6f418f2cafea9100a84fb549a2fc52ee8ed101ce836be80911bbd",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "b624de00"
+  },
+  {
+    "id": "29a14fbd6294d0b286fe7e738fccb92b8791304eb2eced3fbcf70282f6991a3a",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "29a14fbd"
+  },
+  {
+    "id": "ba0ea9e7814dcce59e1e846be6b7b25273099af65ca317b6811c9aa46b61f81c",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "ba0ea9e7"
+  },
+  {
+    "id": "f82f2bd6d933513dd0819f478476a1617b0c9f631770a38fbae7e830203d30f5",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "f82f2bd6"
+  },
+  {
+    "id": "0042c6f3071447c7a59b2dfcfdb89b9d8da64a7925259fd06e061f69c31917d3",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "0042c6f3"
+  },
+  {
+    "id": "e0d7e0ce0b71dc68aaeab5e58430707676a9ce5ca67834dfec16752ff4d338a1",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "e0d7e0ce"
+  },
+  {
+    "id": "78b32bc2c53e0b42d99202c08656304dee988403aa424fb2b901bd4f6e4e4054",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "78b32bc2"
+  },
+  {
+    "id": "5ca9629b0a0e234a479180db920ef85cb01ff9d6147c9192c1ec1db7bef966f5",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "5ca9629b"
+  },
+  {
+    "id": "90f8a29f8ddfa91ca586bc60e5901bc3cef6b5ca726bc200940dcbc348b5e4db",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "90f8a29f"
+  },
+  {
+    "id": "be7942828731e51f6a050eda2259cd4ab04433c69a8e6a229e353b9a9cb7e5d9",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "be794282"
+  },
+  {
+    "id": "e62ca7e8fa348b339531ba1597a3f10c76fa93f0cd66d0d7cb6e819e344e1bc2",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "e62ca7e8"
+  },
+  {
+    "id": "096629cfa6827849e344a3c53654c9fbbf5ffd8683c213a6f995c6d5ca2741f1",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "096629cf"
+  },
+  {
+    "id": "8541a22ce6fecb8ac411be70e004542c6995000484a09d453d490d2b5991713c",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "8541a22c"
+  },
+  {
+    "id": "ab153c71b5569fc21fdbfb34d7cd801d60f117d7ffee8d4ae1aa687e420cb1dc",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "ab153c71"
+  },
+  {
+    "id": "021304865bfcb9c9e463b55e8d19ac52682cd8c36390ba38d7747062315134dd",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "02130486"
+  },
+  {
+    "id": "e580ec65666b69b246c56b1aec4782778677176fc31a7ee16dbad6d53201c0ee",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "e580ec65"
+  },
+  {
+    "id": "e4b396f97f5f7bfe92fd43982a8f435ff93a6bb119e569866265c9e60a7ddcd2",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "e4b396f9"
+  },
+  {
+    "id": "193d6afc3d8ab28c40341b6930095007406e0e72f581a43d6ccf9cecba24e345",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "193d6afc"
+  },
+  {
+    "id": "154c5d7d164947770b98646ec4e108502a87c958fa88e1b03478c4a62e3bf19f",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "154c5d7d"
+  },
+  {
+    "id": "0702b224d02112c3b943574a59ce1b76da9aa0c5b1173891dc5bf519ff63078b",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "0702b224"
+  },
+  {
+    "id": "4fe42e0d3ca3b027a00a7bba4d81e008950a8f0faf951bd3ad16215a881ddadb",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "4fe42e0d"
+  },
+  {
+    "id": "67f7ccbdae4a2fcd5d0801de9ebe1e65abf180853781f9c1f1a258e41e99b06d",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "67f7ccbd"
+  },
+  {
+    "id": "6d4005854dc63f8409bbce2805c8e96c240060d23dda28047d17d0fffde82d1e",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "6d400585"
+  },
+  {
+    "id": "cd9cd32b703aed201bdadada3a52606ab35b5ad87f84a11ff7efd70bf7a3d7d1",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "cd9cd32b"
+  },
+  {
+    "id": "44a3f6c3711105e6ca13f4253c1fe8f877ff6d187dcbf17a713700f6d006cde7",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "44a3f6c3"
+  },
+  {
+    "id": "4b4a36f766535db2115632cb05b68290edfb82f66205a6e99ed1fe32b3013432",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "4b4a36f7"
+  },
+  {
+    "id": "a7ae409df4d62bd21faf41d508c59a7caf807bdeb6d9e7ddb122384c9df865e4",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "a7ae409d"
+  },
+  {
+    "id": "a7b041cf1ad7892fd0eeb1f225f55db8e89c943190e9ec7631cbd7071d087573",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "a7b041cf"
+  },
+  {
+    "id": "74e83e7eebd381c6c2933b8b96a65c0b072f9ed52a16f6a0ed4d06cbb8b59eb4",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "74e83e7e"
+  },
+  {
+    "id": "46323f4f4cccd87fd51202304e810f369df659fe5795e94915855f07c7bf6e1c",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "46323f4f"
+  },
+  {
+    "id": "d5c74ed9f9d35d6d9ee3252df9d825804b73ffa94cfc531f32e9446627729b7b",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "d5c74ed9"
+  },
+  {
+    "id": "2d13fd827fce65b245f7974987e85ef1a46f44c74fce50cf45fb0e07801fa316",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "2d13fd82"
+  },
+  {
+    "id": "f8bfc465c0d01d8d2392eb4619b1f3dad36b93006235289fcf7c2d32da18a390",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "f8bfc465"
+  },
+  {
+    "id": "4b1101310183806af472cce10a5025eaf21155a82da694006483649d29231ef9",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "4b110131"
+  },
+  {
+    "id": "b501d51bf0f200367cacffcb10e1f295d7680655323704fb730260922f77a94a",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "b501d51b"
+  },
+  {
+    "id": "28d7090d691a260c1d8036ba08bee35a8a97e32698abd61613952eba8e6a64e3",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "28d7090d"
+  },
+  {
+    "id": "1fc9a0f52922e32825c9666402c6f6c22fa26dd3be9fd840a209591f71da4cc5",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "1fc9a0f5"
+  },
+  {
+    "id": "5f79eeba975b14bde87b7a1c63210c36c5f37cf35d7ba4895221f228d9a2ea33",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "5f79eeba"
+  },
+  {
+    "id": "f4d42afc3da08ba5ed640515686294dae80819060521ebe423087fe80d5af9dc",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "f4d42afc"
+  },
+  {
+    "id": "dc102f505349ea650a7df94a6baf3d9a9735cb184e728d54c1e1aed43c37a0ac",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "dc102f50"
+  },
+  {
+    "id": "6302295c489ae5cacf6c259df0e1866421cbbe4f0c54dea50232f147647336d5",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "6302295c"
+  },
+  {
+    "id": "4c3c02f121e168d75de789817ba9e3d61cc1c779180a7c6cc8148e99a0b2151e",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "4c3c02f1"
+  },
+  {
+    "id": "aaa9c5e7d6d3c2ec9179e0318e20902589d5aded2c9ee080823a9a5807400a83",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "aaa9c5e7"
+  },
+  {
+    "id": "abb88b9fcd52b04fac9784c0d7cf52434750ad9d5b62e1d09ce5ef9533c02ede",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "abb88b9f"
+  },
+  {
+    "id": "2891bef0c6b53fb2ae2a78bb358c938d2736d6021a9926429fc05b1d57b78953",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "2891bef0"
+  },
+  {
+    "id": "d3b94b8ee1e2b40c3be2a5823e49f7a9b15d7e395a557b6663b35c6e14b4c3c1",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "d3b94b8e"
+  },
+  {
+    "id": "e0ee9cff0a2e84cee838d558933be8373392759857b368ee9ff480311c447733",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "e0ee9cff"
+  },
+  {
+    "id": "e73a0f014fb7237992a1e55ade0b40b2be8e6fcf102c18a8c5981d034bbcc35a",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "e73a0f01"
+  },
+  {
+    "id": "397b2a75b679a7b9394440555337ad5821905955ee1a14beef52422b44cae113",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "397b2a75"
+  },
+  {
+    "id": "7974e1f24e49ba53049f95a1dca5dd74fa01c2f7e960b8ccd2613bbc5ac35580",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "7974e1f2"
+  },
+  {
+    "id": "c6159130a9d05bac0ba3c6af24ea28d364bf1d787b2162c73917ed090f2c2d42",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "c6159130"
+  },
+  {
+    "id": "fc47e0c23b9604fe012357d94ee0f0028bd96914d78b583f4b9c5e9fe5c1a733",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "fc47e0c2"
+  },
+  {
+    "id": "a8d384e908325a70a118b1c8eee070d9b2a48d1e15c9ee8c39f25558eb7a9a85",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "a8d384e9"
+  },
+  {
+    "id": "a2700be558a6c29b603a9ec50a0147708ffd726365c5979c216941a9007a18cf",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "a2700be5"
+  },
+  {
+    "id": "b2f70b7d42fe2a6f42acc1c118764f4bbf61bf2c2fc0693f8aed02ba76a987c0",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "b2f70b7d"
+  },
+  {
+    "id": "ff22616f019439b50c38708b998585bb566b0b3469be7caaaa30a25a860b8805",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "ff22616f"
+  },
+  {
+    "id": "b025edad76f68a2f9c4bbddc89e774b4052ffa747a9d595ee473d9f2bdc481e8",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "b025edad"
+  },
+  {
+    "id": "9e8a447cecc1a0da4f84c11f981cfe6680892f599f09623a841dce8e5eaebfcb",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "9e8a447c"
+  },
+  {
+    "id": "243177132e12a92757e8c9c89d6a6b1e9c1888b19a1571cfb67c6d4b342e6820",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "24317713"
+  },
+  {
+    "id": "82fa465d2ba4982e4a7064f474a10591df9343d6e9563df76af770f7002272a0",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "82fa465d"
+  },
+  {
+    "id": "a9e3426ad44f315bd55f6525362f6a6efa7aba1b4ac6b9535e682fb095326513",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "a9e3426a"
+  },
+  {
+    "id": "d0c2d7cafd78c76c069ea809b58dc7d21774255e4dcca24f577c7b4a3280a7de",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "d0c2d7ca"
+  },
+  {
+    "id": "7998ba04dacf68bad33ec19abb59643742fbbf498568882745610640526d3b37",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "7998ba04"
+  },
+  {
+    "id": "30c83c3b2ebf52c833b474ab919bdacd12f4d64b680c6f4dc3573b6a5fc362fa",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "30c83c3b"
+  },
+  {
+    "id": "089917ea89bbca68e170ae148579febf4dc20791d5cd2c591e3cb357d21fa7d4",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "089917ea"
+  },
+  {
+    "id": "5031f3bff261d37ef3782dcef282ea5c3e84f0e2ee4146a8ec98edec20399696",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "5031f3bf"
+  },
+  {
+    "id": "5708b6cb3daa37182e37d2375e5ede0fe9e4fd08ba5694dcb8f52c81ef4a7fc0",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "5708b6cb"
+  },
+  {
+    "id": "b1b4e3810fe81db6c937d1af3f208df5c53280a88a01a0449344f29e3a740a47",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "b1b4e381"
+  },
+  {
+    "id": "85c8333e87abb622d270a9f412d0d25d91c47b047c222db665bbf04cdfd37585",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "85c8333e"
+  },
+  {
+    "id": "d0d259b98c70d3afeef1e6b54d3edb810d7f5ad39a6f70ae7348138dad090d3e",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "d0d259b9"
+  },
+  {
+    "id": "ca50a48abc6e88d0b01678f9eced116ad578311c2cdb9560b06dcdbe3a0591c5",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "ca50a48a"
+  },
+  {
+    "id": "6af5ad21aa3ec9e8d9509ff5c577bf31de21b11cd2d9bb3fbc1422c5e08f1191",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "6af5ad21"
+  },
+  {
+    "id": "b9d40554a7b4499ef561e4a763766d99cfbfc8449e728e9899dca439f7771472",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "b9d40554"
+  },
+  {
+    "id": "a93ef815aceefa75713ed503eb7bb885e228a487b05e55fdc563200c022aa224",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "a93ef815"
+  },
+  {
+    "id": "e69017eb0b3d70d14f79f45aa3398751c94d04f610327aca9c694a3ad374e00a",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "e69017eb"
+  },
+  {
+    "id": "f0452d19d9f850d9cf5ca75492ca5954a4856aadc80a3d3f82b6d26833d38454",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "f0452d19"
+  },
+  {
+    "id": "99e718569517316a03afd6e46b517106ede2b97f93de58e9872a9f029068cb6e",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "99e71856"
+  },
+  {
+    "id": "07d8e86b51a2ae626721ac7e945ad81058c85e46747aaec5d2a2782b62946bb0",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "07d8e86b"
+  },
+  {
+    "id": "e119f09e0bca505ae72be810007877f2899d29dbd531f2fc80b3653a4592be9b",
+    "course": "Proteogenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "e119f09e"
+  },
+  {
+    "id": "d43f4f8dd7fa4a4ad8073cbc05f45945a7060110214d2d65e3b444200d9cbb4a",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "d43f4f8d"
+  },
+  {
+    "id": "ad484d6e61d45e730a3efc175c0383d6726ee6641f61b20c34786f31daa26cf9",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "ad484d6e"
+  },
+  {
+    "id": "e8e7f995ce6711a42810e78288a7d0a2ffa81d6405ee07ed78e3f40025257b14",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "e8e7f995"
+  },
+  {
+    "id": "a962dbb81506fd51d9f7a3536a6000fd77a83755e9c4632f513412347c59e522",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "a962dbb8"
+  },
+  {
+    "id": "a6eddd2c1a6d84c57fc9d22493868a672cced7d343d176c8b466cb83717e1aaf",
+    "course": "Montagem e análises de genomas",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "a6eddd2c"
+  },
+  {
+    "id": "17c72e5b78b94a31b2598c59725d32fea01ead9476b8b56c372046b021d38be3",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "17c72e5b"
+  },
+  {
+    "id": "ad9c231be826213d27419fb3a45b6bbbf66c1df0c97c84511c2758603927baa8",
+    "course": "Vacinologia Reversa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "ad9c231b"
+  },
+  {
+    "id": "107b714a9f3885f27af9d5d4cfd972f6b4c907ede04a37bdc9bab6155cf8eddd",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "107b714a"
+  },
+  {
+    "id": "cbbac06324a33739db6a328043338285a47700e24d36888cd36dc4be73729a52",
+    "course": "Visualização de Dados em R",
+    "type": "minicurso",
+    "id_short": "cbbac063"
+  },
+  {
+    "id": "f9100376d81ed14e35984b027f4a70f44748a5bf8d49d44dcd94f0191fde67f8",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "f9100376"
+  },
+  {
+    "id": "164783ba9ae891e08f7662e4c2dc06fd8e5dd0fd4f98b1a4415bd8f192905d64",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "164783ba"
+  },
+  {
+    "id": "20d8838d88f1e6a94d03369b7f9a27fcd4d257d6d5bfc2d057f07e3b6b4956b1",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "20d8838d"
+  },
+  {
+    "id": "f8188e08eb0351dfeb8cf6dadae67c65932673acca913a12968e0a3395d9f9fb",
+    "course": "Introdução à GNU/LINUX",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "f8188e08"
+  },
+  {
+    "id": "3f82606b4e5e90a319025683a2494a510edaa9809156a8ed31ec66f35e94c486",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "3f82606b"
+  },
+  {
+    "id": "9da1472f88eb506832d92d41ab33710e4aabf3cb849d4dba749fbd96b0314a89",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "9da1472f"
+  },
+  {
+    "id": "d38ffdd7ba0cc99fde6d26d349c76d9a121a445975e238e64bc6135be4c8d92b",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "d38ffdd7"
+  },
+  {
+    "id": "1950326466477de17db83741954e2d7a09f11b16fb2a5b0e5e1cbd65cc631613",
+    "course": "Introdução à programação",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "19503264"
+  },
+  {
+    "id": "259ddf5d148b0e3b2d7ae1937b903e46536650aab397fd00b56234f195888c21",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "259ddf5d"
+  },
+  {
+    "id": "7b0bf21ad5844081213341b44650371b412eda201a2efb86eac94bf6c17cb675",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "7b0bf21a"
+  },
+  {
+    "id": "22f4a0886574a2c48676b08a40e5b527d379b5c705bbdac7a4401a621b4774e6",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "22f4a088"
+  },
+  {
+    "id": "7af8026cb281a31237565cd66fe3a1e240545a1f046087ee29984a073d5e49e4",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "7af8026c"
+  },
+  {
+    "id": "1cf7f6a40acb532effd4306bd085f400d62f2f84b31fb267e139e40d94b2b401",
+    "course": "Dinâmica Molecular",
+    "type": "minicurso",
+    "id_short": "1cf7f6a4"
+  },
+  {
+    "id": "cc945ad92114558411be472cfa036741d11e26ccf4c7d57ead6dacfbbb228b15",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "cc945ad9"
+  },
+  {
+    "id": "6a085315930f03965f87dceb353d5ba44bfc2819194f08de6f78c2d5bb0fccbc",
+    "course": "Genômica e Evolução",
+    "type": "minicurso",
+    "id_short": "6a085315"
+  },
+  {
+    "id": "03aa96c4c3364327b226663969808e7b48fe8768327d1725b3509e0d6025cb46",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "03aa96c4"
+  },
+  {
+    "id": "7d19baabb7a111149f3a118bd561a97435aa103dbcd8da7ed53e8af9b0ca3617",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "7d19baab"
+  },
+  {
+    "id": "aba631c4d3cd4078a84af8cd18185ddd6132de2ed61590d261a2fa81fc373dd8",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "aba631c4"
+  },
+  {
+    "id": "28ce492f501d680771b13e3cdd61a857d4909e54baa0e567bd48b123dc41af6c",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "28ce492f"
+  },
+  {
+    "id": "2093bc1a401a22f2deb19fad8a27f3f35b547a132b27a06cee51b2a920dc6226",
+    "course": "Metagenômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "2093bc1a"
+  },
+  {
+    "id": "9766096af8cb96ed5466d4e81306708089376e977d8faa81cdce53bb84ea578c",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "9766096a"
+  },
+  {
+    "id": "e8ff9864ee5dbf9e33b2e79dacbb3830602800bb478767b4bc0cc0b055ec8e5b",
+    "course": "Dinâmica molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "e8ff9864"
+  },
+  {
+    "id": "b3d18f9ae8245fe590de43344ac9a5ae1ca617036bebbe6e7234c9ff3e5d70c8",
+    "course": "Introdução à Transcriptômica",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "b3d18f9a"
+  },
+  {
+    "id": "c33530907f61dfbd35d91161f720f032378baa65d23b49a2ea3e42f2ca00cb5e",
+    "course": "Introdução a linguagem R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "c3353090"
+  },
+  {
+    "id": "79561eefe19c8b16edfe9821d0d03d6058cd4ea98d04218d5018c62bd3436f1f",
+    "course": "Detecção de Variantes",
+    "type": "minicurso",
+    "id_short": "79561eef"
+  },
+  {
+    "id": "d18dddbb962e262ea14ba8fd9701e0078696b9ee764a49c33fb0ef4111df2d00",
+    "course": "Dinâmica molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "d18dddbb"
+  },
+  {
+    "id": "82fa465d2ba4982e4a7064f474a10591df9343d6e9563df76af770f7002272a0",
+    "course": "Docking molecular",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "82fa465d"
+  },
+  {
+    "id": "a9e3426ad44f315bd55f6525362f6a6efa7aba1b4ac6b9535e682fb095326513",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "a9e3426a"
+  },
+  {
+    "id": "53d299ad4942c683e9de10227c2e1576ca94a5f5c2bcea7f4138182548b85e1c",
+    "course": "Genômica Comparativa",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "53d299ad"
+  },
+  {
+    "id": "bd6ea47017d895fe4d56a753e738dac8a2707bc40ee907421603b85226274c04",
+    "course": "Evento Principal",
+    "type": "minicurso",
+    "id_short": "bd6ea470"
+  },
+  {
+    "id": "6c64c1b337b1cfa0ab49f1d4199b731e52ab160bc93496f141bb4bb92537ccb8",
+    "course": "Deep Learning",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "6c64c1b3"
+  },
+  {
+    "id": "806f5acce1fe519e57130573d8e63b42c19036cf455807efbff8936be6b48cc5",
+    "course": "Filogenética",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "806f5acc"
+  },
+  {
+    "id": "0e6902669107f7c2b98f672aea60fb88b768f7bfbc8ee361694826259386b46e",
+    "course": "Aprendizado de máquina na Bioinformática",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "0e690266"
+  },
+  {
+    "id": "b6f5801f288511e554279589ee8326012e45264c6bc0bff0840c5c61812bd7c8",
+    "course": "Aprendizado de máquina na Bioinformática",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "b6f5801f"
+  },
+  {
+    "id": "a1995e1b24559924ff29e4f0ca80f1c64dd7c0b7e680f0a608d087d614e38b31",
+    "course": "Biologia e Computação: um casamento perfeito",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "27/01/2020",
+    "id_short": "a1995e1b"
+  },
+  {
+    "id": "7fceebce44dafc244cb9008e8ec5a7216fb2c7bcf5410ad9ced440d675dafb7e",
+    "course": "Introdução à Metagenômica",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "7fceebce"
+  },
+  {
+    "id": "758fe461eba7426f04e8b89775c4ee3e5f22dbc310c9c1ca047701357e6c184d",
+    "course": "O Programa de Pós-Graduação em Bioinformática da UFMG",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "27/01/2020",
+    "id_short": "758fe461"
+  },
+  {
+    "id": "29b7e23554244d9e1767c463e1a0e4df813d790c3a4bd3f6fce1d9567368c9cb",
+    "course": "Mesa-redonda: A Bioinformática na resolução de problemas biológicos",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "29b7e235"
+  },
+  {
+    "id": "1fad1f32676dad28d8fb025e3970fce66ef3ded0d46fb5e720f57d2661a7602a",
+    "course": "Aplicações da Bioinformática para não-bioinformátas",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "1fad1f32"
+  },
+  {
+    "id": "67403c70f95b2c3522db2f81311cb8517c0e7b46d615e878ca20eb6384033e30",
+    "course": "Mesa-redonda: A Bioinformática na resolução de problemas biológicos",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "67403c70"
+  },
+  {
+    "id": "16582a08ccf114e04afee3a4e07d8b92a017fcff3377240b373c27c35335f2de",
+    "course": "Bioinformática e tecnologias ômicas na agropecuária: saúde animal",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "16582a08"
+  },
+  {
+    "id": "72463daa0b95fcc3a3b683f43f2ae371db9fe841981152d0eb4f6a5ab19b9c23",
+    "course": "Mesa-redonda: A Bioinformática na resolução de problemas biológicos",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "72463daa"
+  },
+  {
+    "id": "4a8012b8b9a07cd98150f08e2aacb795bb8c95ee4ca43039a0672ed186af49b5",
+    "course": "Abordagens genômicas para o estudo de doenças infecciosas",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "4a8012b8"
+  },
+  {
+    "id": "8d38bb6d998a1f5af538fd432a6cf382bae09f840cd68469758e579ff669a2f1",
+    "course": "Análise de viromas utilizando sequenciamento de pequenos RNAs",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "8d38bb6d"
+  },
+  {
+    "id": "4d2ed43b31f41351f10e009525da85a2fe1b52c26fedf0d5caaca2a98b539b89",
+    "course": "De onde vem as estruturas?",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "27/01/2020",
+    "id_short": "4d2ed43b"
+  },
+  {
+    "id": "91c70b1538e4b002dbeb7de5f0d2ab42dc18ca379591c62e65c422d0e4794d53",
+    "course": "Startups e Empreendedorismo",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "91c70b15"
+  },
+  {
+    "id": "37b276a0e7b3d0b8a7706539f88ae111a2c4428fda9120adb24e33dc80f5a24f",
+    "course": "Modelagem Molecular: Docking",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "37b276a0"
+  },
+  {
+    "id": "162f67b0d81058471c9719d8f25db7cef439ee37bc34315f00f8da31557a7c62",
+    "course": "Revelando a origem dos ecossistemas terrestres através da genômica",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "27/01/2020",
+    "id_short": "162f67b0"
+  },
+  {
+    "id": "0cc1a70b2b16e96fe36718da088d5b5cd251f71d69fbcdf645168ae3018b0977",
+    "course": "Epigenômica em doenças complexas e resposta a fármacos",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "27/01/2020",
+    "id_short": "0cc1a70b"
+  },
+  {
+    "id": "305e9e009fd6196d78ef7144e8ba4249dea25a854830c57993e40a533c5dcf90",
+    "course": "Mesa-redonda: A Bioinformática na resolução de problemas biológicos",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "305e9e00"
+  },
+  {
+    "id": "227ae9509c41d9ba6b1b5b2ee69c25c9ae548a1cb76213e7c2ac1eb38f333ca4",
+    "course": "A Bioinformática na resolução de problemas biológicos - Como a RMN pode nos auxiliar",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "227ae950"
+  },
+  {
+    "id": "48475142bfe7daf9d5a143f849c3215056210dbb3c226accf38a83a128e6a9ee",
+    "course": "Sequenciamento portátil na virologia e vigilância epidemiológica",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "48475142"
+  },
+  {
+    "id": "f077cd977c3e63eb23d9d554f19f13692455b5bdd4d7da94175ad5d3c79ce0e3",
+    "course": "Modelagem Molecular: A dinâmica molecular e suas aplicações",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "f077cd97"
+  },
+  {
+    "id": "42962969cc91b84c47983f6d5fa0debdece83b7fde4b3f3981129ce7e28b1343",
+    "course": "Como é o trabalho de um bioinformata em um laboratório?",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "42962969"
+  },
+  {
+    "id": "18d455618e46f489496aa56571a8a7a9d82b011e3c3365bdaeaf8275f228a5f1",
+    "course": "Problemas Computacionais em Bioinformática",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "18d45561"
+  },
+  {
+    "id": "a896c48e37b48801f4e8eba4d2aa92cf315bcf2611cea6a3265f3e9f7b2a910c",
+    "course": "Sequenciamento de Nova Geração",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "a896c48e"
+  },
+  {
+    "id": "dfe1987f06ba317c06cf9967e721d1d857f891098a48b669dfd8c837cdbed7c1",
+    "course": "Modelagem Molecular: A dinâmica molecular e suas aplicações",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "dfe1987f"
+  },
+  {
+    "id": "0b178b09c24b46acfb8a5e2297360d9195e86679880d2e5cd455bbe4d56a35bd",
+    "course": "Encerramento com o Egresso de Destaque",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "0b178b09"
+  },
+  {
+    "id": "008068b3b2cfd0d9abafb773f7a7dc4b5a6f6c2e607670fd2dee27a2a80588fd",
+    "course": "RNAs longos não codificadores: do DNA lixo aos holofotes",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "27/01/2020",
+    "id_short": "008068b3"
+  },
+  {
+    "id": "4b544b5bc08aefb4c2f0f16a865acc4e68a2f0b221ede11c4f8b5bb6c3d34f9f",
+    "course": "Data Science aplicada à Biologia e Saúde",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "4b544b5b"
+  },
+  {
+    "id": "d0963c083c71d77175f01b77c95b40dee97c75c8fa6d95f39077592030038c61",
+    "course": "A importância da Bionformática para a interação empresa-universidade e desenvolvimento de produtos agrícolas e agropecuários: de abelhas a industria do Café",
+    "type": "palestrante",
+    "hours": "-",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "d0963c08"
+  },
+  {
+    "id": "1888c379549a6a92d2d85660ae4612a116c382eee7217d763d4ec76fcb85fc08",
+    "course": "Introdução à GNU/LINUX",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "1888c379"
+  },
+  {
+    "id": "57cae23a64ab42bd40432489283a40e2c18e7fec95e1c677715c01957622a97e",
+    "course": "Docking molecular",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "57cae23a"
+  },
+  {
+    "id": "7773f2c3a352c0ca838aec06a10830b9bfbf825b7cb9fe5ef42910c9d6aec59a",
+    "course": "Machine Learning",
+    "type": "ministrante",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "7773f2c3"
+  },
+  {
+    "id": "09c758975dcb20b0285e447eb4504be38c224c8a6b4490284c02e0c8214b5182",
+    "course": "Introdução a linguagem R",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "09c75897"
+  },
+  {
+    "id": "a89270a5ff59d01bc9ccea3b2ee08fe7017cf7f06dbb05695b02121673bb2044",
+    "course": "Genômica Comparativa",
+    "type": "ministrante",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "a89270a5"
+  },
+  {
+    "id": "7a55f32bc5c157a0bf1d3718a092ad5620c83ee443bb606f1492ae4dae03e283",
+    "course": "Introdução à programação",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "7a55f32b"
+  },
+  {
+    "id": "db214744460536daea7ac5d446264a8d6928bf5e40d054a0217ca7b04d99f416",
+    "course": "Montagem e análises de genomas",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "db214744"
+  },
+  {
+    "id": "6ab8492a629ddacd46169b561f6e32206fb93637488750d0a71650bac6620f7e",
+    "course": "Detecção de variantes",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "6ab8492a"
+  },
+  {
+    "id": "ec404ed2a9855a56d7cb95aa4ad044d34e15f14722582fc01775639288f467da",
+    "course": "Montagem e análises de genomas",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "ec404ed2"
+  },
+  {
+    "id": "6ee38ced3d059a6c2afd8a728769be7c7ad3af8bbb805e2330dc148294e1b2c9",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "ministrante",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "6ee38ced"
+  },
+  {
+    "id": "35dff705c57ce9133115139c6ee259c7cf39c4f5e7c8a4b4c3867308330b5320",
+    "course": "Docking molecular",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "35dff705"
+  },
+  {
+    "id": "76f5acbc093ffb03576dac94a8cd9b25379b027804f1c8c84b06bfda633b60b8",
+    "course": "Visualização de dados em R",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "76f5acbc"
+  },
+  {
+    "id": "7bc696390c7513b2f49aca4680236543170b98f553a0763de073e5b6bde390b5",
+    "course": "Genômica e evolução",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "7bc69639"
+  },
+  {
+    "id": "b0be6fc68ab76960037f834fdd2279c2f4dcf4a91e6f82964d63381b14c18a8e",
+    "course": "Proteogenômica",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "b0be6fc6"
+  },
+  {
+    "id": "d7332c647697ed5db2dbf04ae674f3940a98a4c00e0586ef90ee5950cf6ad7c9",
+    "course": "Dinâmica molecular",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "d7332c64"
+  },
+  {
+    "id": "41b6eeb64907e4e305931943f2e780268203ecc1c5adb430d3f8c5eeecb8b24b",
+    "course": "Dinâmica molecular",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "41b6eeb6"
+  },
+  {
+    "id": "27c24de5913924c5f374039928644033636e17759eacc3720e57b2d33fe9f566",
+    "course": "Metagenômica",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "27c24de5"
+  },
+  {
+    "id": "71b2bf4cbba518f36ae481ba502c5fe9c975f93f7b35be032413896b7355de51",
+    "course": "Genômica Comparativa",
+    "type": "ministrante",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "71b2bf4c"
+  },
+  {
+    "id": "1f5b24b284c4dc982b23662269ace472b009aa7edc9ec7bb39b6082e89638b31",
+    "course": "Introdução à Transcriptômica",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "1f5b24b2"
+  },
+  {
+    "id": "cc5bbf68f5fe98fe0b97d672ae3c9acd996ffb424fd5cd7ca0f85eec3c571d56",
+    "course": "Introdução à GNU/LINUX",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "cc5bbf68"
+  },
+  {
+    "id": "c13b07fba17b3cb8458277f7bbdf81b9f90003f21a36a1741bab85f3ae41754d",
+    "course": "Patentes e transferência de Propriedade Intelectual",
+    "type": "ministrante",
+    "hours": "2",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "c13b07fb"
+  },
+  {
+    "id": "65674237e7f379e8040a0208b6b311a6f7144bdd3db324ed42faa985098a31d9",
+    "course": "Introdução à programação",
+    "type": "ministrante",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "65674237"
+  },
+  {
+    "id": "cc99351e2b0a29c9ac6a80a6bed36e48c3b283c6985026ec609e60a0a5663c14",
+    "course": "Pesquisa em Banco de Dados",
+    "type": "ministrante",
+    "hours": "2",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "cc99351e"
+  },
+  {
+    "id": "08e44f2ff3cf680d8bf7c286682a8f237fd49cc4dae9620e1b59a8f4bd75f556",
+    "course": "NGS - Next Generation Sequencing",
+    "type": "ministrante",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "08e44f2f"
+  },
+  {
+    "id": "ae2fd2cc4a7b18d8673da029b130f87d49720e959b8010b51e68d55e610028d2",
+    "course": "Vacinologia Reversa",
+    "type": "ministrante",
+    "hours": "2",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "ae2fd2cc"
+  },
+  {
+    "id": "48fd30bb9b3015fcc917c63050059046ab5c9f8e5cbaaf8b88463e7c66ed49b7",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "48fd30bb"
+  },
+  {
+    "id": "867bbd29a8d449a85b6ab261a51871074bca177259f8c7d05b59436e4eb217cb",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "867bbd29"
+  },
+  {
+    "id": "b1856e1720ae56eb437d567a449185c227104c56263f002498d7761442fc4fa8",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "b1856e17"
+  },
+  {
+    "id": "7566e692c5559d7dc0bbaa24e8014310b8f21defb54993c67ddb023da64bbf6f",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "7566e692"
+  },
+  {
+    "id": "6b8413f3eadad814c69706f04dbc719df465762ffa00d2a94d5c2d5e1fbced1b",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "6b8413f3"
+  },
+  {
+    "id": "921a73167d043e8b4c10e528be0e38bc7e8226a3c0a011d9c588aa6c44ac92d6",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "921a7316"
+  },
+  {
+    "id": "0dcbbbbc705c32b672ef4dd62db0fe229a95ee0080d27a5c9c24c248ba003bf0",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "0dcbbbbc"
+  },
+  {
+    "id": "b4234397499320a2b6de3266a749673fe8b4677b66affb4b605b284a17a8b9b8",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "b4234397"
+  },
+  {
+    "id": "02fc309d4b79f3c1859d3d9233f9cbcaac85ac7fcde1214b6fabd8be8d517720",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "02fc309d"
+  },
+  {
+    "id": "9f2a0f97b56ad401ab9b77f39ac9d12dea1f12bd924fed4e87225b158b9a8602",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "9f2a0f97"
+  },
+  {
+    "id": "3ceb3e053cf173b0590e577ed3f67497a488a2d89a12f99efef4fd5652a985a5",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "3ceb3e05"
+  },
+  {
+    "id": "50bc29e05ece11ed34d3119862f9504a460c2fea39a3f432b83693955e96f3e3",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "50bc29e0"
+  },
+  {
+    "id": "9beb20d7d190098631a4a108b976700f893e080e0a59d8e56da0d369b5f89448",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "9beb20d7"
+  },
+  {
+    "id": "423d4605a2f84a3c62e15cbee28e9643f5b9786e292f0c03eee0b6218c25dcb7",
+    "course": "Comissão Organizadora",
+    "type": "organizador",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "423d4605"
+  },
+  {
+    "id": "38094650a4ab0aa769a8613ac413ace8ed3824f1180fbd4f48f1d72ed7a6dd68",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "38094650"
+  },
+  {
+    "id": "88c30742d5f4979d0ea854bd44a86ac8b42fcbf29d93af600923ec79ebf0a6c0",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "88c30742"
+  },
+  {
+    "id": "311cee8c538271732131449f0d7dc66b6ccea16c2ec49535771ee0042928ad91",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "311cee8c"
+  },
+  {
+    "id": "e8bc398b0767897cb5068923aa9f317477b0bd2f838ee51cbf15a77489fbacf9",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "e8bc398b"
+  },
+  {
+    "id": "dce0e2b9a66bdbeeed5847c032f9f7f44d2f7d2e699f31e4af18273d9fff8a95",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "dce0e2b9"
+  },
+  {
+    "id": "320eb2cfec0b0c15b825034ace85f09911c0ab2604215911d3039c5c9e1d923b",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "320eb2cf"
+  },
+  {
+    "id": "6d30a306e97cf5f7d2d3a84db917d66b4385a4f6787b2e53aa558b31e4d9a766",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "6d30a306"
+  },
+  {
+    "id": "9ed676b0da430a20516096c7102fd069e97ebb9594eae99f142e5af24b4db302",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "9ed676b0"
+  },
+  {
+    "id": "750ed07e19353cb62ca60fc706057397a3eb87a550f1fe9eab63cacc6affda24",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "750ed07e"
+  },
+  {
+    "id": "71afa7db088e5023151fb8aa472df7b7bd56cc394ddaf8f5725a71cb101cac3a",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "71afa7db"
+  },
+  {
+    "id": "9071aa16455ff64f915de378c5ea516948a5e81ac75dd4738debc867ecdcda3d",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "9071aa16"
+  },
+  {
+    "id": "81dd6f1debd902008a730e92bd1fcb062c29921858b9c4f405734bcbe60c4e0c",
+    "course": "Monitor",
+    "type": "monitor",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "81dd6f1d"
+  },
+  {
+    "id": "7a9de1914b9ea3d2ea7e59da763c2f531df0ed34fc85739eaeb1df2d579b4ab8",
+    "course": "Visualização de dados em R",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "7a9de191"
+  },
+  {
+    "id": "0d9d21b412e752058ed24ef36c32c7db32eb737c9b43d82dac71271923e711aa",
+    "course": "Dinâmica molecular",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "0d9d21b4"
+  },
+  {
+    "id": "3fe87874d5600f50daf6a84bb6c8e0b92b9e1733c0c971f218f8b8540a3a2d83",
+    "course": "Montagem e análises de genomas",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "3fe87874"
+  },
+  {
+    "id": "a801880d7d209c98dbcbfcf1c38ca8b2ded6afa47a4f03284c546dbbf2eedbf0",
+    "course": "Introdução à GNU/LINUX",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "a801880d"
+  },
+  {
+    "id": "ac90d05e36c1508a9ced451b2b362fede6b152ab8ac94007211c1da3183722e5",
+    "course": "Introdução à programação",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "ac90d05e"
+  },
+  {
+    "id": "720b8df43d705aa531cbd67938eda582d20236ebe08bdd324fadfcc5cddbd0ba",
+    "course": "Introdução à programação",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "720b8df4"
+  },
+  {
+    "id": "1abebff2da1a72dfcd1d23fd476eca1512d509c77ec13448dd4283eb7246ad87",
+    "course": "Detecção de variantes",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "1abebff2"
+  },
+  {
+    "id": "12996cbc72d2ff70c352faca0c85228bb15dbbe14517a061ec398009ba4857cc",
+    "course": "Genômica e evolução",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "12996cbc"
+  },
+  {
+    "id": "85dd525fa556ab8cfac5a494a46f687068cd8fa89b3d4bb279d4964eaff6fc32",
+    "course": "Introdução à programação",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "29/01/2020",
+    "id_short": "85dd525f"
+  },
+  {
+    "id": "8eedbfb58f7cd4ae8b81715b26e5e55ac320aeeca3a1172913584531c0d91439",
+    "course": "Metagenômica",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "8eedbfb5"
+  },
+  {
+    "id": "68c1219fed374cadc9875bd0d73110cc6564e9d8958a0de4f6384e993f9b0896",
+    "course": "Introdução a linguagem R",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "68c1219f"
+  },
+  {
+    "id": "ba697edc4087244a4d41066fe242f3dd9c2ad28281984d38ba53962472efbc10",
+    "course": "Dinâmica molecular",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "ba697edc"
+  },
+  {
+    "id": "b327b9a53ac84e2aec4932600c92f39b6170bb0f3b3db99540be5e86ac9a16dd",
+    "course": "Docking molecular",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "b327b9a5"
+  },
+  {
+    "id": "803d082b539f1f96c7ff514c68bceed6218966715ad3a249eb696cf6096f05f7",
+    "course": "Proteogenômica",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "30/01/2020",
+    "id_short": "803d082b"
+  },
+  {
+    "id": "394088f696a56bc3d7490d204142cfbb88dc579f2a7bbcef88fb1502c57d2e96",
+    "course": "Metagenômica",
+    "type": "monitor_minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "31/01/2020",
+    "id_short": "394088f6"
   }
 ]
