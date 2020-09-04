@@ -5632,5 +5632,23 @@
     "edition": "2020",
     "date": "31/01/2020",
     "id_short": "394088f6"
+  },
+  {
+    "id": "1a06c8d1a6d9be5e6757af0a4feab74522a905ae587254ad9768a77f309ca636",
+    "course": "Visualização de dados em R",
+    "type": "minicurso",
+    "hours": "4",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "1a06c8d1"
+  },
+  {
+    "id": "276667a9684074a99e106c6f6ea9ff2300ec5fa76bdb938f9b554f373422e122",
+    "course": "Machine Learning",
+    "type": "minicurso",
+    "hours": "2",
+    "edition": "2020",
+    "date": "28/01/2020",
+    "id_short": "276667a9"
   }
 ]
