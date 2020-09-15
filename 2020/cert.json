@@ -5650,5 +5650,14 @@
     "edition": "2020",
     "date": "28/01/2020",
     "id_short": "276667a9"
+  },
+  {
+    "id": "c52e5cc7e60541db1fd9e68a2bf3c15d2d1b26f78c565471332520802cb84202",
+    "course": "Evento Principal",
+    "type": "participante",
+    "hours": "30",
+    "edition": "2020",
+    "date": "27/01/2020 a 31/01/2020",
+    "id_short": "c52e5cc7"
   }
 ]
